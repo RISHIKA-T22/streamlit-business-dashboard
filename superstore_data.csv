@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Segment,Region,State,Category,Sub_Category,Sales,Quantity,Discount,Profit
+CA-1000,2023-04-13,2023-04-17,CG-9322,Consumer,South,New York,Furniture,Chairs,318.43,3,0.03,66.16
+CA-1001,2023-05-30,2023-06-04,CG-7396,Corporate,Central,Florida,Office Supplies,Art,10.38,5,0.19,1.02
+CA-1002,2023-08-24,2023-09-02,CG-2528,Consumer,South,New York,Technology,Machines,284.0,3,0.11,79.59
+CA-1003,2023-05-11,2023-05-16,CG-8513,Home Office,South,Illinois,Furniture,Bookcases,118.57,9,0.29,6.26
+CA-1004,2023-02-22,2023-02-24,CG-4073,Home Office,Central,Georgia,Furniture,Furnishings,148.14,1,0.08,32.76
+CA-1005,2023-02-23,2023-02-27,CG-8629,Corporate,West,Georgia,Office Supplies,Art,230.38,4,0.18,45.43
+CA-1006,2023-08-03,2023-08-12,CG-9571,Corporate,Central,Illinois,Furniture,Tables,855.57,8,0.11,66.1
+CA-1007,2023-02-10,2023-02-11,CG-6892,Consumer,South,California,Furniture,Furnishings,510.88,3,0.21,54.48
+CA-1008,2023-08-19,2023-08-28,CG-3731,Home Office,West,Michigan,Office Supplies,Storage,41.14,7,0.2,4.08
+CA-1009,2023-12-26,2024-01-01,CG-7910,Home Office,South,California,Technology,Phones,1949.08,3,0.23,78.25
+CA-1010,2023-12-25,2024-01-03,CG-7019,Home Office,South,Texas,Office Supplies,Supplies,62.87,7,0.14,7.94
+CA-1011,2023-08-10,2023-08-15,CG-3693,Home Office,South,Illinois,Technology,Accessories,565.51,7,0.09,34.75
+CA-1012,2023-10-11,2023-10-15,CG-2306,Corporate,East,New York,Office Supplies,Labels,449.08,7,0.27,-40.6
+CA-1013,2023-05-01,2023-05-05,CG-1663,Consumer,West,New York,Technology,Machines,1119.35,9,0.15,181.65
+CA-1014,2023-11-11,2023-11-17,CG-4696,Consumer,Central,California,Office Supplies,Storage,134.42,7,0.15,5.52
+CA-1015,2023-03-22,2023-03-23,CG-6172,Corporate,East,Florida,Office Supplies,Labels,146.54,1,0.19,16.69
+CA-1016,2023-06-21,2023-06-27,CG-1197,Home Office,Central,Georgia,Technology,Copiers,627.75,6,0.11,112.59
+CA-1017,2023-08-28,2023-08-29,CG-2986,Consumer,Central,New York,Office Supplies,Supplies,29.98,4,0.1,2.05
+CA-1018,2023-05-27,2023-05-31,CG-9120,Home Office,Central,California,Furniture,Furnishings,641.43,2,0.25,32.97
+CA-1019,2023-05-31,2023-06-03,CG-5548,Home Office,Central,Michigan,Office Supplies,Supplies,282.05,1,0.07,15.62
+CA-1020,2023-02-06,2023-02-13,CG-2648,Consumer,West,New York,Technology,Copiers,1723.99,4,0.27,116.95
+CA-1021,2023-04-14,2023-04-18,CG-3869,Corporate,South,Michigan,Office Supplies,Storage,335.12,2,0.05,72.51
+CA-1022,2023-06-12,2023-06-21,CG-5496,Consumer,Central,California,Office Supplies,Storage,97.62,8,0.19,15.61
+CA-1023,2023-05-08,2023-05-09,CG-6895,Home Office,South,Ohio,Technology,Machines,639.18,6,0.29,-30.45
+CA-1024,2023-10-10,2023-10-12,CG-8679,Consumer,East,California,Technology,Copiers,1755.5,3,0.17,279.06
+CA-1025,2023-01-17,2023-01-22,CG-1699,Corporate,South,Florida,Furniture,Chairs,1399.65,1,0.17,148.16
+CA-1026,2023-04-26,2023-05-01,CG-4863,Home Office,West,Michigan,Technology,Copiers,870.84,6,0.21,54.17
+CA-1027,2023-04-24,2023-04-30,CG-8343,Home Office,East,Georgia,Technology,Machines,1779.27,1,0.25,-202.15
+CA-1028,2023-02-08,2023-02-15,CG-3368,Corporate,South,Texas,Furniture,Furnishings,1378.54,7,0.15,260.59
+CA-1029,2023-09-21,2023-09-24,CG-2148,Home Office,South,Florida,Office Supplies,Art,224.85,6,0.1,10.81
+CA-1030,2023-05-30,2023-06-05,CG-4051,Consumer,Central,Texas,Office Supplies,Labels,186.49,5,0.16,32.51
+CA-1031,2023-04-18,2023-04-23,CG-5465,Home Office,Central,Ohio,Furniture,Furnishings,843.9,3,0.19,106.84
+CA-1032,2023-05-04,2023-05-07,CG-2150,Consumer,Central,Georgia,Technology,Copiers,1539.28,5,0.06,106.15
+CA-1033,2023-05-09,2023-05-10,CG-5070,Home Office,East,Michigan,Office Supplies,Art,360.15,8,0.28,4.0
+CA-1034,2023-07-11,2023-07-16,CG-6188,Corporate,West,Georgia,Technology,Copiers,1218.87,3,0.23,-149.96
+CA-1035,2023-02-16,2023-02-17,CG-5452,Corporate,East,Ohio,Furniture,Furnishings,124.03,5,0.14,1.23
+CA-1036,2023-01-23,2023-01-29,CG-3839,Consumer,Central,Texas,Technology,Machines,1326.55,1,0.16,190.19
+CA-1037,2023-12-02,2023-12-09,CG-6052,Corporate,West,Florida,Technology,Copiers,1235.85,2,0.17,-41.35
+CA-1038,2023-06-28,2023-07-03,CG-9967,Home Office,West,California,Office Supplies,Labels,105.94,2,0.01,29.0
+CA-1039,2023-04-03,2023-04-05,CG-9867,Home Office,West,Georgia,Office Supplies,Storage,180.68,8,0.22,21.78
+CA-1040,2023-12-23,2024-01-01,CG-4440,Home Office,West,New York,Office Supplies,Storage,390.44,8,0.26,3.29
+CA-1041,2023-07-02,2023-07-09,CG-1698,Consumer,South,California,Office Supplies,Storage,271.82,4,0.25,-14.11
+CA-1042,2023-01-19,2023-01-20,CG-5980,Consumer,West,New York,Furniture,Bookcases,1439.52,4,0.17,169.17
+CA-1043,2023-03-10,2023-03-13,CG-6305,Consumer,Central,New York,Furniture,Furnishings,1424.67,9,0.03,491.85
+CA-1044,2023-08-11,2023-08-16,CG-2542,Home Office,South,Illinois,Technology,Accessories,410.72,9,0.23,23.42
+CA-1045,2023-06-23,2023-07-01,CG-2365,Corporate,West,Texas,Technology,Machines,463.89,5,0.07,94.83
+CA-1046,2023-05-25,2023-06-01,CG-5268,Consumer,West,Florida,Office Supplies,Supplies,50.92,6,0.21,-1.88
+CA-1047,2023-05-21,2023-05-23,CG-1504,Corporate,East,Florida,Furniture,Bookcases,1008.89,1,0.2,-33.35
+CA-1048,2023-07-10,2023-07-11,CG-6348,Consumer,Central,California,Office Supplies,Storage,481.98,5,0.01,175.62
+CA-1049,2023-06-13,2023-06-16,CG-3703,Home Office,Central,California,Office Supplies,Labels,318.41,1,0.19,27.71
+CA-1050,2023-01-12,2023-01-20,CG-1539,Corporate,Central,Michigan,Furniture,Furnishings,337.55,4,0.14,22.58
+CA-1051,2023-08-08,2023-08-13,CG-3779,Consumer,Central,Michigan,Technology,Machines,258.17,9,0.09,64.87
+CA-1052,2023-08-28,2023-08-31,CG-8409,Consumer,East,Texas,Technology,Copiers,1246.09,9,0.13,316.94
+CA-1053,2023-09-08,2023-09-13,CG-4925,Home Office,Central,California,Office Supplies,Storage,245.38,1,0.11,51.98
+CA-1054,2023-11-11,2023-11-12,CG-3000,Consumer,West,Texas,Furniture,Bookcases,287.39,5,0.02,98.43
+CA-1055,2023-07-16,2023-07-21,CG-6997,Corporate,South,Illinois,Technology,Phones,1507.02,3,0.07,242.57
+CA-1056,2023-01-01,2023-01-04,CG-1249,Consumer,West,Florida,Office Supplies,Storage,339.13,2,0.11,9.03
+CA-1057,2023-06-11,2023-06-17,CG-7544,Corporate,South,New York,Office Supplies,Supplies,410.03,5,0.03,127.53
+CA-1058,2023-04-22,2023-04-29,CG-7949,Home Office,West,Illinois,Office Supplies,Art,404.47,7,0.04,25.66
+CA-1059,2023-11-02,2023-11-04,CG-6115,Corporate,East,Georgia,Technology,Accessories,1827.49,4,0.16,129.82
+CA-1060,2023-01-30,2023-02-06,CG-6971,Corporate,South,California,Furniture,Chairs,305.9,8,0.25,23.88
+CA-1061,2023-03-10,2023-03-12,CG-7238,Corporate,West,Texas,Furniture,Tables,986.76,3,0.16,75.84
+CA-1062,2023-01-08,2023-01-12,CG-8956,Consumer,South,Michigan,Technology,Accessories,1401.6,2,0.18,-18.82
+CA-1063,2023-01-05,2023-01-07,CG-8240,Corporate,West,Ohio,Furniture,Tables,268.89,9,0.11,70.31
+CA-1064,2023-10-09,2023-10-18,CG-2276,Home Office,West,Ohio,Technology,Copiers,1772.44,1,0.08,458.7
+CA-1065,2023-06-29,2023-07-07,CG-1918,Corporate,East,Texas,Technology,Machines,1032.56,8,0.04,274.88
+CA-1066,2023-08-26,2023-08-28,CG-2976,Corporate,East,New York,Technology,Accessories,388.76,7,0.11,-2.79
+CA-1067,2023-09-30,2023-10-07,CG-7371,Corporate,East,Ohio,Furniture,Chairs,580.1,9,0.2,77.16
+CA-1068,2023-04-21,2023-04-27,CG-2761,Corporate,South,Michigan,Furniture,Furnishings,278.61,9,0.1,74.85
+CA-1069,2023-11-11,2023-11-17,CG-7986,Consumer,West,California,Furniture,Tables,415.47,6,0.07,30.92
+CA-1070,2023-11-14,2023-11-22,CG-8489,Home Office,West,Georgia,Technology,Accessories,232.84,5,0.29,-37.51
+CA-1071,2023-08-08,2023-08-12,CG-7316,Home Office,East,Ohio,Furniture,Tables,339.24,3,0.25,23.5
+CA-1072,2023-10-27,2023-11-01,CG-2828,Corporate,East,Ohio,Technology,Copiers,1113.7,1,0.16,170.64
+CA-1073,2023-05-19,2023-05-23,CG-3060,Consumer,South,New York,Furniture,Tables,571.25,5,0.02,215.92
+CA-1074,2023-06-17,2023-06-19,CG-8984,Consumer,South,Illinois,Furniture,Chairs,263.37,8,0.18,41.21
+CA-1075,2023-03-10,2023-03-12,CG-6951,Corporate,West,Michigan,Technology,Phones,569.0,3,0.02,172.06
+CA-1076,2023-12-15,2023-12-23,CG-1077,Home Office,West,Illinois,Office Supplies,Supplies,90.19,5,0.06,10.35
+CA-1077,2023-03-03,2023-03-07,CG-8804,Consumer,West,Texas,Furniture,Tables,1243.24,7,0.21,193.65
+CA-1078,2023-12-19,2023-12-26,CG-5018,Home Office,South,California,Furniture,Chairs,1359.4,7,0.16,-53.79
+CA-1079,2023-02-08,2023-02-11,CG-9669,Corporate,East,New York,Technology,Accessories,802.83,4,0.24,38.39
+CA-1080,2023-08-19,2023-08-23,CG-5612,Consumer,East,California,Furniture,Chairs,447.88,7,0.04,53.04
+CA-1081,2023-05-03,2023-05-04,CG-4719,Corporate,East,Illinois,Technology,Accessories,1723.61,8,0.18,119.79
+CA-1082,2023-09-18,2023-09-22,CG-6779,Consumer,East,New York,Technology,Accessories,1449.11,4,0.21,93.98
+CA-1083,2023-01-11,2023-01-19,CG-8790,Corporate,East,Michigan,Technology,Accessories,718.27,8,0.15,94.57
+CA-1084,2023-04-14,2023-04-18,CG-4368,Consumer,Central,Illinois,Technology,Machines,1588.24,9,0.13,307.63
+CA-1085,2023-08-02,2023-08-09,CG-5021,Consumer,East,Illinois,Furniture,Tables,1274.46,6,0.25,-65.77
+CA-1086,2023-02-24,2023-02-27,CG-8970,Home Office,West,Georgia,Furniture,Chairs,569.28,4,0.24,25.49
+CA-1087,2023-03-04,2023-03-08,CG-5971,Consumer,East,New York,Office Supplies,Art,238.19,2,0.28,0.14
+CA-1088,2023-09-08,2023-09-11,CG-5757,Corporate,Central,California,Technology,Copiers,954.07,8,0.09,229.65
+CA-1089,2023-06-03,2023-06-05,CG-7704,Consumer,West,Georgia,Furniture,Furnishings,742.58,4,0.12,0.9
+CA-1090,2023-11-23,2023-11-24,CG-8186,Consumer,East,Georgia,Technology,Accessories,1639.61,1,0.01,378.18
+CA-1091,2023-01-18,2023-01-19,CG-5926,Corporate,South,Georgia,Office Supplies,Art,271.88,1,0.12,40.15
+CA-1092,2023-05-12,2023-05-13,CG-1054,Consumer,South,Georgia,Technology,Copiers,690.14,3,0.19,20.3
+CA-1093,2023-10-15,2023-10-17,CG-9519,Home Office,West,Michigan,Furniture,Chairs,410.76,8,0.06,79.2
+CA-1094,2023-02-23,2023-03-04,CG-3538,Home Office,West,New York,Technology,Phones,1202.1,8,0.03,172.04
+CA-1095,2023-06-14,2023-06-20,CG-4695,Consumer,East,Georgia,Technology,Copiers,356.47,7,0.22,47.65
+CA-1096,2023-02-05,2023-02-07,CG-2555,Corporate,West,Georgia,Furniture,Furnishings,570.21,2,0.11,0.77
+CA-1097,2023-09-18,2023-09-23,CG-3679,Corporate,Central,Ohio,Furniture,Tables,1305.5,3,0.28,58.15
+CA-1098,2023-02-28,2023-03-07,CG-6877,Consumer,East,New York,Furniture,Tables,1138.36,2,0.19,-14.43
+CA-1099,2023-10-05,2023-10-09,CG-6475,Corporate,East,Illinois,Furniture,Tables,481.23,6,0.27,-66.87
+CA-1100,2023-02-10,2023-02-16,CG-3074,Corporate,West,Illinois,Furniture,Tables,1261.64,7,0.03,138.82
+CA-1101,2023-11-09,2023-11-15,CG-3681,Home Office,Central,Texas,Furniture,Chairs,791.98,1,0.13,70.73
+CA-1102,2023-02-15,2023-02-17,CG-7819,Corporate,South,California,Technology,Phones,1285.67,5,0.25,-25.67
+CA-1103,2023-04-23,2023-04-30,CG-8715,Home Office,East,Texas,Technology,Accessories,1917.36,6,0.22,-106.01
+CA-1104,2023-08-27,2023-08-31,CG-3120,Home Office,South,Florida,Technology,Phones,1093.46,2,0.19,60.44
+CA-1105,2023-07-20,2023-07-28,CG-2252,Consumer,West,California,Furniture,Bookcases,937.6,9,0.07,254.85
+CA-1106,2023-04-18,2023-04-21,CG-8982,Corporate,East,Texas,Technology,Phones,364.85,1,0.04,125.52
+CA-1107,2023-01-12,2023-01-20,CG-7609,Home Office,Central,Georgia,Furniture,Chairs,1022.3,6,0.19,207.53
+CA-1108,2023-03-30,2023-04-08,CG-1390,Consumer,East,Georgia,Office Supplies,Supplies,463.37,7,0.17,34.86
+CA-1109,2023-09-27,2023-10-02,CG-4042,Home Office,West,New York,Office Supplies,Labels,472.69,2,0.22,-50.6
+CA-1110,2023-04-13,2023-04-14,CG-5278,Corporate,South,Michigan,Technology,Copiers,417.02,2,0.27,-2.68
+CA-1111,2023-12-30,2024-01-06,CG-9502,Home Office,Central,California,Furniture,Tables,546.25,2,0.16,39.33
+CA-1112,2023-08-15,2023-08-17,CG-3032,Corporate,South,Georgia,Furniture,Chairs,637.55,3,0.02,52.17
+CA-1113,2023-11-14,2023-11-19,CG-4760,Consumer,Central,Michigan,Technology,Phones,1582.89,9,0.1,246.69
+CA-1114,2023-01-03,2023-01-11,CG-5494,Corporate,East,Florida,Office Supplies,Art,298.66,1,0.27,-47.66
+CA-1115,2023-11-01,2023-11-10,CG-9202,Home Office,East,Illinois,Furniture,Chairs,225.18,6,0.29,15.89
+CA-1116,2023-03-03,2023-03-05,CG-8274,Consumer,South,Florida,Technology,Copiers,1896.92,6,0.18,135.6
+CA-1117,2023-08-14,2023-08-23,CG-3736,Corporate,West,California,Office Supplies,Labels,414.84,5,0.02,154.89
+CA-1118,2023-01-09,2023-01-12,CG-8906,Corporate,West,Illinois,Technology,Machines,1127.45,2,0.21,-70.62
+CA-1119,2023-09-26,2023-10-04,CG-2218,Consumer,South,California,Furniture,Furnishings,912.12,2,0.14,73.08
+CA-1120,2023-08-14,2023-08-23,CG-6370,Home Office,Central,California,Furniture,Bookcases,221.78,8,0.08,5.71
+CA-1121,2023-06-25,2023-06-27,CG-1317,Corporate,West,Florida,Furniture,Furnishings,206.58,1,0.02,71.56
+CA-1122,2023-12-15,2023-12-18,CG-4239,Corporate,South,Michigan,Office Supplies,Supplies,287.21,1,0.26,21.72
+CA-1123,2023-04-02,2023-04-03,CG-4738,Home Office,South,Michigan,Furniture,Chairs,1271.82,9,0.28,-187.31
+CA-1124,2023-07-07,2023-07-14,CG-4741,Consumer,South,Illinois,Office Supplies,Storage,24.33,7,0.0,8.38
+CA-1125,2023-02-08,2023-02-10,CG-8009,Corporate,East,Illinois,Furniture,Furnishings,108.94,1,0.17,-3.62
+CA-1126,2023-07-07,2023-07-15,CG-1571,Consumer,South,Michigan,Office Supplies,Labels,382.9,9,0.29,-33.06
+CA-1127,2023-12-01,2023-12-06,CG-3752,Consumer,East,Florida,Office Supplies,Supplies,157.47,1,0.23,12.8
+CA-1128,2023-01-22,2023-01-30,CG-6126,Home Office,East,Texas,Office Supplies,Supplies,341.27,4,0.19,28.68
+CA-1129,2023-01-29,2023-01-30,CG-8266,Corporate,South,Georgia,Technology,Accessories,1429.93,2,0.08,453.36
+CA-1130,2023-02-08,2023-02-15,CG-1988,Consumer,West,New York,Office Supplies,Labels,343.44,6,0.04,110.25
+CA-1131,2023-01-21,2023-01-26,CG-2980,Home Office,Central,Ohio,Technology,Phones,996.14,1,0.1,220.25
+CA-1132,2023-06-12,2023-06-13,CG-4676,Consumer,Central,Florida,Office Supplies,Labels,241.05,8,0.05,27.32
+CA-1133,2023-11-05,2023-11-13,CG-8725,Home Office,South,Ohio,Office Supplies,Supplies,18.75,5,0.27,2.19
+CA-1134,2023-01-15,2023-01-24,CG-8099,Corporate,East,Georgia,Furniture,Tables,1059.79,4,0.17,0.15
+CA-1135,2023-11-15,2023-11-21,CG-2389,Corporate,West,Illinois,Office Supplies,Supplies,222.29,1,0.0,26.29
+CA-1136,2023-04-05,2023-04-11,CG-7731,Home Office,West,California,Furniture,Furnishings,1191.79,8,0.22,128.07
+CA-1137,2023-02-15,2023-02-21,CG-2949,Corporate,Central,Florida,Furniture,Tables,1186.13,2,0.1,186.67
+CA-1138,2023-03-18,2023-03-22,CG-9619,Corporate,East,Georgia,Office Supplies,Art,288.1,2,0.25,-38.63
+CA-1139,2023-11-01,2023-11-09,CG-9907,Home Office,West,New York,Technology,Machines,1270.6,9,0.02,313.58
+CA-1140,2023-09-21,2023-09-29,CG-1021,Corporate,Central,Ohio,Office Supplies,Labels,409.26,7,0.2,27.69
+CA-1141,2023-01-03,2023-01-12,CG-4638,Corporate,East,New York,Office Supplies,Art,300.71,9,0.26,-28.8
+CA-1142,2023-08-26,2023-08-30,CG-1661,Consumer,Central,Illinois,Technology,Phones,1385.67,3,0.05,80.03
+CA-1143,2023-02-06,2023-02-14,CG-8005,Consumer,South,New York,Office Supplies,Labels,343.31,6,0.01,57.71
+CA-1144,2023-08-01,2023-08-09,CG-7563,Consumer,Central,Florida,Office Supplies,Supplies,257.37,2,0.26,3.47
+CA-1145,2023-09-07,2023-09-12,CG-5732,Corporate,Central,Florida,Office Supplies,Labels,451.34,6,0.2,90.78
+CA-1146,2023-09-25,2023-09-28,CG-1525,Consumer,East,Michigan,Furniture,Bookcases,430.11,8,0.12,68.37
+CA-1147,2023-11-30,2023-12-02,CG-5599,Home Office,West,Illinois,Office Supplies,Storage,224.21,6,0.26,-6.2
+CA-1148,2023-08-19,2023-08-28,CG-6543,Corporate,South,Ohio,Furniture,Bookcases,537.01,2,0.26,-83.07
+CA-1149,2023-06-13,2023-06-20,CG-8115,Home Office,South,New York,Office Supplies,Labels,226.59,9,0.13,10.28
+CA-1150,2023-01-01,2023-01-10,CG-3203,Corporate,Central,Florida,Furniture,Bookcases,1130.96,5,0.16,197.33
+CA-1151,2023-07-26,2023-08-01,CG-7262,Home Office,West,Florida,Office Supplies,Art,37.97,5,0.28,-6.42
+CA-1152,2023-02-04,2023-02-10,CG-1125,Consumer,West,New York,Furniture,Chairs,810.13,4,0.3,75.78
+CA-1153,2023-08-05,2023-08-07,CG-7294,Consumer,West,Georgia,Technology,Copiers,1128.07,2,0.1,176.97
+CA-1154,2023-05-06,2023-05-10,CG-5612,Corporate,East,Florida,Technology,Copiers,1945.84,1,0.22,-140.88
+CA-1155,2023-03-27,2023-03-29,CG-1302,Consumer,South,Georgia,Office Supplies,Labels,344.79,2,0.07,95.17
+CA-1156,2023-08-20,2023-08-21,CG-9125,Home Office,Central,California,Office Supplies,Supplies,341.49,3,0.28,22.47
+CA-1157,2023-08-08,2023-08-10,CG-4230,Corporate,Central,Ohio,Technology,Phones,1759.59,9,0.26,129.31
+CA-1158,2023-11-20,2023-11-22,CG-2388,Consumer,East,Ohio,Office Supplies,Labels,405.84,2,0.26,-27.68
+CA-1159,2023-11-27,2023-11-28,CG-6592,Corporate,East,Georgia,Furniture,Chairs,554.42,7,0.17,25.0
+CA-1160,2023-11-01,2023-11-02,CG-7471,Home Office,Central,Ohio,Office Supplies,Labels,305.69,2,0.14,22.89
+CA-1161,2023-10-31,2023-11-02,CG-9234,Corporate,Central,Illinois,Furniture,Tables,252.49,5,0.12,38.99
+CA-1162,2023-12-09,2023-12-15,CG-6243,Corporate,East,Florida,Technology,Accessories,232.82,7,0.13,55.82
+CA-1163,2023-10-08,2023-10-12,CG-9564,Home Office,South,Georgia,Furniture,Chairs,592.27,2,0.05,139.37
+CA-1164,2023-02-21,2023-02-24,CG-2286,Corporate,Central,Ohio,Office Supplies,Art,143.59,4,0.25,1.41
+CA-1165,2023-12-17,2023-12-24,CG-2798,Consumer,South,Georgia,Technology,Copiers,1628.13,8,0.29,-71.34
+CA-1166,2023-11-06,2023-11-07,CG-4097,Consumer,East,Georgia,Technology,Phones,1282.9,6,0.15,158.45
+CA-1167,2023-01-09,2023-01-17,CG-7807,Corporate,West,Illinois,Office Supplies,Supplies,387.27,1,0.07,101.89
+CA-1168,2023-01-19,2023-01-23,CG-1482,Home Office,East,California,Office Supplies,Labels,315.69,1,0.13,5.91
+CA-1169,2023-04-18,2023-04-20,CG-9841,Consumer,South,Illinois,Furniture,Tables,133.09,3,0.18,10.9
+CA-1170,2023-03-19,2023-03-28,CG-7602,Corporate,West,Texas,Technology,Accessories,1451.26,3,0.13,146.46
+CA-1171,2023-10-07,2023-10-10,CG-1072,Corporate,East,Texas,Technology,Phones,342.95,8,0.19,29.2
+CA-1172,2023-05-16,2023-05-17,CG-5255,Home Office,East,California,Technology,Copiers,996.34,2,0.2,-79.61
+CA-1173,2023-05-29,2023-06-06,CG-6291,Corporate,Central,Texas,Technology,Machines,615.49,3,0.06,36.07
+CA-1174,2023-09-15,2023-09-21,CG-4374,Consumer,South,Texas,Technology,Machines,800.43,6,0.17,174.97
+CA-1175,2023-11-07,2023-11-16,CG-8446,Home Office,Central,Florida,Furniture,Furnishings,1030.88,4,0.14,74.52
+CA-1176,2023-12-14,2023-12-17,CG-5895,Corporate,West,Florida,Furniture,Chairs,1040.18,4,0.19,-62.76
+CA-1177,2023-06-10,2023-06-15,CG-1340,Corporate,Central,Texas,Furniture,Tables,264.71,7,0.08,34.18
+CA-1178,2023-09-15,2023-09-24,CG-9597,Consumer,West,New York,Technology,Copiers,703.47,4,0.26,-79.82
+CA-1179,2023-05-23,2023-05-29,CG-8629,Consumer,Central,Texas,Technology,Phones,409.46,2,0.19,46.64
+CA-1180,2023-05-14,2023-05-17,CG-8373,Home Office,Central,Ohio,Furniture,Bookcases,664.17,2,0.05,80.33
+CA-1181,2023-10-03,2023-10-05,CG-5917,Corporate,West,Texas,Furniture,Chairs,1306.82,4,0.18,-52.47
+CA-1182,2023-08-26,2023-08-30,CG-1536,Home Office,South,California,Office Supplies,Storage,336.49,2,0.02,29.37
+CA-1183,2023-03-20,2023-03-24,CG-3719,Consumer,Central,Florida,Furniture,Bookcases,808.6,2,0.08,220.03
+CA-1184,2023-12-15,2023-12-17,CG-6175,Home Office,South,Georgia,Technology,Phones,1605.37,9,0.02,611.66
+CA-1185,2023-03-24,2023-04-02,CG-7928,Home Office,West,California,Office Supplies,Art,59.51,1,0.15,14.65
+CA-1186,2023-04-11,2023-04-18,CG-3044,Consumer,Central,Florida,Office Supplies,Labels,364.92,5,0.27,-11.33
+CA-1187,2023-01-07,2023-01-13,CG-3293,Corporate,South,Illinois,Furniture,Tables,1449.35,7,0.12,173.28
+CA-1188,2023-08-18,2023-08-23,CG-3385,Corporate,South,Texas,Technology,Phones,587.36,5,0.25,22.61
+CA-1189,2023-06-22,2023-06-26,CG-9737,Consumer,South,California,Technology,Accessories,1098.8,7,0.04,102.62
+CA-1190,2023-02-21,2023-02-23,CG-1392,Home Office,West,Illinois,Furniture,Tables,649.35,1,0.29,32.12
+CA-1191,2023-05-09,2023-05-11,CG-1775,Consumer,West,Texas,Office Supplies,Art,134.0,8,0.14,20.46
+CA-1192,2023-08-02,2023-08-10,CG-5940,Consumer,South,California,Technology,Copiers,1788.43,5,0.22,58.01
+CA-1193,2023-07-19,2023-07-28,CG-1365,Home Office,South,California,Furniture,Bookcases,199.76,8,0.01,48.32
+CA-1194,2023-08-16,2023-08-20,CG-6439,Home Office,South,Georgia,Technology,Copiers,838.71,5,0.16,154.55
+CA-1195,2023-05-18,2023-05-24,CG-2827,Home Office,Central,Michigan,Furniture,Bookcases,1195.48,8,0.19,32.5
+CA-1196,2023-11-20,2023-11-29,CG-1769,Consumer,West,Texas,Technology,Machines,1812.47,5,0.04,371.07
+CA-1197,2023-09-26,2023-10-01,CG-6784,Home Office,Central,Michigan,Office Supplies,Labels,31.43,1,0.28,-3.49
+CA-1198,2023-11-11,2023-11-20,CG-6341,Corporate,East,Florida,Office Supplies,Supplies,69.54,3,0.27,1.92
+CA-1199,2023-04-29,2023-05-06,CG-7381,Consumer,Central,California,Technology,Machines,1344.93,5,0.29,41.61
+CA-1200,2023-05-15,2023-05-22,CG-7579,Home Office,Central,Ohio,Office Supplies,Labels,141.97,2,0.03,38.79
+CA-1201,2023-10-10,2023-10-12,CG-9706,Home Office,South,New York,Technology,Copiers,816.29,6,0.16,93.41
+CA-1202,2023-07-10,2023-07-16,CG-9553,Home Office,South,Illinois,Office Supplies,Labels,292.81,9,0.23,-23.52
+CA-1203,2023-07-05,2023-07-13,CG-3520,Consumer,Central,Illinois,Technology,Phones,700.22,3,0.12,153.75
+CA-1204,2023-01-10,2023-01-15,CG-3649,Corporate,South,New York,Technology,Machines,839.69,9,0.17,-54.33
+CA-1205,2023-11-10,2023-11-16,CG-6110,Consumer,East,Ohio,Furniture,Tables,1162.15,4,0.1,54.14
+CA-1206,2023-03-11,2023-03-19,CG-8909,Home Office,West,Texas,Technology,Phones,1358.06,8,0.07,103.46
+CA-1207,2023-11-06,2023-11-14,CG-3563,Home Office,West,Texas,Office Supplies,Art,184.19,9,0.12,19.23
+CA-1208,2023-08-09,2023-08-12,CG-4390,Consumer,Central,Texas,Technology,Copiers,1209.19,8,0.2,167.54
+CA-1209,2023-07-30,2023-08-05,CG-6469,Consumer,Central,Ohio,Office Supplies,Art,112.82,4,0.16,8.67
+CA-1210,2023-07-02,2023-07-03,CG-2283,Home Office,West,Texas,Technology,Copiers,312.58,9,0.28,4.01
+CA-1211,2023-05-28,2023-06-03,CG-3097,Home Office,East,Florida,Technology,Accessories,1229.37,5,0.06,188.5
+CA-1212,2023-09-16,2023-09-17,CG-6017,Corporate,East,Ohio,Furniture,Tables,825.31,3,0.28,-86.17
+CA-1213,2023-03-10,2023-03-15,CG-3978,Consumer,West,Texas,Furniture,Furnishings,286.87,4,0.01,102.19
+CA-1214,2023-05-09,2023-05-17,CG-7868,Consumer,Central,Ohio,Furniture,Tables,415.31,9,0.23,29.77
+CA-1215,2023-12-30,2024-01-05,CG-1581,Home Office,South,Georgia,Office Supplies,Supplies,487.67,6,0.13,109.61
+CA-1216,2023-02-13,2023-02-22,CG-1671,Consumer,Central,Michigan,Technology,Copiers,1315.46,9,0.1,119.42
+CA-1217,2023-09-05,2023-09-09,CG-3361,Home Office,Central,Georgia,Furniture,Tables,1259.02,8,0.08,303.67
+CA-1218,2023-01-21,2023-01-23,CG-7588,Consumer,South,Georgia,Office Supplies,Storage,287.01,3,0.09,83.66
+CA-1219,2023-06-10,2023-06-12,CG-1572,Consumer,Central,Georgia,Office Supplies,Storage,426.8,7,0.16,98.43
+CA-1220,2023-12-20,2023-12-29,CG-2537,Home Office,East,California,Furniture,Tables,214.42,6,0.25,-5.46
+CA-1221,2023-01-22,2023-01-31,CG-5666,Corporate,East,Texas,Technology,Phones,1548.71,8,0.24,-158.76
+CA-1222,2023-05-18,2023-05-21,CG-7519,Home Office,South,California,Technology,Phones,496.47,4,0.23,14.29
+CA-1223,2023-08-20,2023-08-25,CG-3113,Home Office,East,Florida,Office Supplies,Labels,473.85,8,0.3,17.11
+CA-1224,2023-09-05,2023-09-08,CG-7852,Consumer,East,Florida,Technology,Machines,869.48,7,0.25,-28.26
+CA-1225,2023-11-03,2023-11-11,CG-7063,Corporate,Central,Michigan,Furniture,Furnishings,487.02,8,0.24,-10.02
+CA-1226,2023-08-26,2023-09-03,CG-2898,Corporate,East,Florida,Office Supplies,Supplies,91.36,3,0.11,23.77
+CA-1227,2023-02-09,2023-02-15,CG-6906,Consumer,Central,California,Technology,Copiers,854.65,5,0.13,130.33
+CA-1228,2023-02-01,2023-02-10,CG-2283,Home Office,East,Georgia,Furniture,Bookcases,779.5,5,0.2,70.18
+CA-1229,2023-04-12,2023-04-19,CG-7788,Home Office,West,California,Technology,Phones,252.86,4,0.27,-36.22
+CA-1230,2023-08-15,2023-08-24,CG-1587,Corporate,East,Ohio,Technology,Copiers,765.83,2,0.25,-6.67
+CA-1231,2023-10-13,2023-10-18,CG-2098,Corporate,East,California,Furniture,Bookcases,298.76,9,0.22,-19.28
+CA-1232,2023-10-06,2023-10-12,CG-7049,Consumer,West,Florida,Technology,Machines,1962.39,3,0.01,613.16
+CA-1233,2023-03-07,2023-03-10,CG-7659,Home Office,South,Ohio,Furniture,Furnishings,418.05,8,0.02,42.36
+CA-1234,2023-10-30,2023-11-05,CG-5646,Home Office,South,Illinois,Technology,Phones,747.1,4,0.28,59.67
+CA-1235,2023-12-21,2023-12-23,CG-3659,Home Office,West,Ohio,Technology,Accessories,1208.79,2,0.13,125.7
+CA-1236,2023-11-24,2023-11-27,CG-2750,Home Office,East,Georgia,Office Supplies,Labels,217.05,9,0.13,-3.97
+CA-1237,2023-05-30,2023-06-08,CG-2531,Home Office,East,New York,Technology,Machines,1458.77,4,0.29,-11.87
+CA-1238,2023-10-02,2023-10-06,CG-2762,Corporate,Central,Ohio,Furniture,Chairs,195.68,1,0.07,6.1
+CA-1239,2023-11-30,2023-12-09,CG-5790,Home Office,Central,Florida,Office Supplies,Storage,171.9,6,0.27,-19.27
+CA-1240,2023-01-16,2023-01-17,CG-8851,Corporate,Central,New York,Technology,Copiers,1620.49,5,0.16,-60.51
+CA-1241,2023-07-20,2023-07-29,CG-1526,Home Office,West,Texas,Furniture,Furnishings,824.42,8,0.1,111.54
+CA-1242,2023-12-27,2023-12-30,CG-2846,Corporate,Central,Illinois,Office Supplies,Supplies,474.57,6,0.18,63.25
+CA-1243,2023-12-14,2023-12-18,CG-5005,Corporate,Central,Illinois,Technology,Machines,672.82,8,0.18,96.13
+CA-1244,2023-09-19,2023-09-25,CG-3800,Consumer,East,California,Furniture,Furnishings,945.7,8,0.07,160.05
+CA-1245,2023-12-21,2023-12-29,CG-2159,Corporate,South,Michigan,Furniture,Furnishings,389.79,6,0.26,-55.11
+CA-1246,2023-02-12,2023-02-16,CG-5912,Consumer,East,Georgia,Furniture,Chairs,900.87,6,0.28,-54.43
+CA-1247,2023-02-10,2023-02-11,CG-4628,Consumer,South,New York,Technology,Accessories,1773.6,3,0.14,432.14
+CA-1248,2023-01-01,2023-01-09,CG-4321,Home Office,Central,Michigan,Furniture,Chairs,461.44,1,0.25,64.32
+CA-1249,2023-01-08,2023-01-17,CG-5033,Home Office,East,Georgia,Office Supplies,Storage,416.5,1,0.18,51.99
+CA-1250,2023-11-20,2023-11-21,CG-8922,Home Office,Central,Texas,Furniture,Bookcases,934.85,8,0.23,-97.27
+CA-1251,2023-05-23,2023-06-01,CG-5658,Home Office,East,Georgia,Furniture,Chairs,1005.03,3,0.18,-75.44
+CA-1252,2023-04-28,2023-05-07,CG-7031,Consumer,South,Florida,Technology,Copiers,1348.18,5,0.27,-203.31
+CA-1253,2023-12-16,2023-12-24,CG-6476,Corporate,West,California,Office Supplies,Supplies,154.57,1,0.03,30.06
+CA-1254,2023-08-01,2023-08-02,CG-3658,Home Office,South,California,Technology,Copiers,1374.12,5,0.21,29.17
+CA-1255,2023-03-14,2023-03-19,CG-2141,Corporate,East,Ohio,Office Supplies,Supplies,412.99,9,0.13,27.41
+CA-1256,2023-04-10,2023-04-11,CG-6906,Home Office,East,Michigan,Furniture,Bookcases,299.63,8,0.23,46.57
+CA-1257,2023-06-06,2023-06-08,CG-1929,Home Office,South,Georgia,Technology,Accessories,937.33,1,0.03,303.47
+CA-1258,2023-06-25,2023-06-29,CG-5652,Corporate,West,Georgia,Furniture,Chairs,1460.84,8,0.29,-49.17
+CA-1259,2023-09-17,2023-09-23,CG-3172,Home Office,Central,New York,Office Supplies,Labels,21.44,5,0.09,6.07
+CA-1260,2023-02-06,2023-02-11,CG-4236,Home Office,South,Ohio,Office Supplies,Supplies,277.24,4,0.01,105.89
+CA-1261,2023-11-01,2023-11-03,CG-1340,Consumer,East,Illinois,Technology,Accessories,992.79,2,0.08,80.01
+CA-1262,2023-01-21,2023-01-28,CG-7416,Home Office,West,Florida,Technology,Copiers,1999.48,2,0.15,147.69
+CA-1263,2023-04-09,2023-04-11,CG-3660,Corporate,West,Michigan,Office Supplies,Labels,108.64,5,0.04,33.83
+CA-1264,2023-06-13,2023-06-19,CG-7538,Home Office,South,Michigan,Technology,Phones,1278.42,6,0.16,256.93
+CA-1265,2023-01-05,2023-01-06,CG-8929,Consumer,East,Texas,Office Supplies,Storage,475.06,4,0.26,8.34
+CA-1266,2023-08-16,2023-08-22,CG-7068,Home Office,West,Ohio,Technology,Accessories,1290.36,9,0.11,269.73
+CA-1267,2023-08-07,2023-08-09,CG-1115,Home Office,South,Georgia,Technology,Copiers,1651.86,3,0.06,119.99
+CA-1268,2023-12-03,2023-12-04,CG-9182,Consumer,West,Michigan,Technology,Accessories,1790.24,5,0.15,241.41
+CA-1269,2023-07-27,2023-07-29,CG-4735,Corporate,West,Ohio,Technology,Accessories,1446.56,5,0.11,338.08
+CA-1270,2023-02-04,2023-02-12,CG-9733,Corporate,West,Ohio,Technology,Accessories,1996.08,8,0.3,-342.23
+CA-1271,2023-05-15,2023-05-18,CG-9392,Consumer,Central,California,Furniture,Chairs,196.64,8,0.28,12.87
+CA-1272,2023-05-07,2023-05-08,CG-4426,Home Office,East,Georgia,Technology,Phones,1501.67,4,0.12,-3.5
+CA-1273,2023-03-13,2023-03-16,CG-6776,Corporate,Central,Illinois,Furniture,Furnishings,201.24,3,0.16,6.66
+CA-1274,2023-06-11,2023-06-17,CG-5727,Corporate,East,Texas,Furniture,Furnishings,513.41,2,0.08,131.81
+CA-1275,2023-02-24,2023-03-02,CG-8480,Consumer,South,Illinois,Technology,Phones,1188.16,5,0.01,183.32
+CA-1276,2023-10-08,2023-10-14,CG-1159,Home Office,West,Georgia,Technology,Copiers,1008.83,4,0.19,-66.48
+CA-1277,2023-01-14,2023-01-16,CG-6585,Corporate,Central,Illinois,Technology,Machines,1213.92,4,0.04,351.72
+CA-1278,2023-01-12,2023-01-19,CG-6086,Home Office,East,Texas,Office Supplies,Supplies,318.48,9,0.22,-9.34
+CA-1279,2023-08-29,2023-08-31,CG-6951,Corporate,East,California,Technology,Copiers,1710.81,9,0.1,479.07
+CA-1280,2023-06-06,2023-06-15,CG-3224,Consumer,South,New York,Furniture,Bookcases,1313.17,4,0.24,171.87
+CA-1281,2023-07-17,2023-07-25,CG-8094,Home Office,West,California,Office Supplies,Labels,251.97,1,0.28,18.7
+CA-1282,2023-06-24,2023-07-01,CG-6832,Consumer,West,New York,Furniture,Chairs,1452.47,1,0.2,261.97
+CA-1283,2023-01-21,2023-01-25,CG-6672,Home Office,South,Florida,Furniture,Tables,246.73,6,0.29,-9.11
+CA-1284,2023-12-21,2023-12-23,CG-5424,Corporate,South,Florida,Furniture,Furnishings,1302.54,2,0.17,77.0
+CA-1285,2023-06-15,2023-06-21,CG-8170,Corporate,West,Florida,Furniture,Bookcases,950.85,2,0.12,248.0
+CA-1286,2023-01-28,2023-02-03,CG-8480,Consumer,Central,Michigan,Office Supplies,Art,293.8,5,0.09,36.46
+CA-1287,2023-02-18,2023-02-24,CG-9016,Corporate,East,Illinois,Technology,Phones,1438.48,5,0.27,112.43
+CA-1288,2023-12-22,2023-12-25,CG-9931,Consumer,South,Georgia,Office Supplies,Storage,453.97,4,0.0,107.25
+CA-1289,2023-07-07,2023-07-13,CG-3792,Consumer,Central,Georgia,Technology,Phones,1138.33,6,0.01,371.05
+CA-1290,2023-06-11,2023-06-16,CG-1719,Corporate,South,Michigan,Furniture,Chairs,1182.4,7,0.1,126.63
+CA-1291,2023-02-12,2023-02-17,CG-9835,Consumer,South,Florida,Technology,Accessories,242.47,8,0.23,24.04
+CA-1292,2023-04-14,2023-04-17,CG-6223,Consumer,West,Illinois,Office Supplies,Art,247.2,7,0.2,18.09
+CA-1293,2023-04-29,2023-05-04,CG-8468,Corporate,South,Georgia,Office Supplies,Storage,110.44,7,0.04,27.0
+CA-1294,2023-12-05,2023-12-10,CG-3606,Home Office,South,Florida,Technology,Accessories,1657.75,4,0.1,358.56
+CA-1295,2023-06-08,2023-06-17,CG-2696,Corporate,East,Texas,Furniture,Tables,110.98,4,0.07,4.92
+CA-1296,2023-08-14,2023-08-19,CG-2757,Corporate,West,Ohio,Office Supplies,Art,405.41,2,0.16,-4.04
+CA-1297,2023-01-03,2023-01-09,CG-5958,Consumer,Central,Florida,Furniture,Bookcases,1044.09,1,0.29,45.51
+CA-1298,2023-06-05,2023-06-11,CG-8186,Consumer,Central,Florida,Technology,Copiers,1990.67,9,0.07,342.3
+CA-1299,2023-11-07,2023-11-13,CG-3895,Corporate,East,Texas,Office Supplies,Supplies,416.4,2,0.21,3.78
+CA-1300,2023-09-04,2023-09-12,CG-4667,Consumer,East,Michigan,Office Supplies,Supplies,161.9,1,0.14,31.88
+CA-1301,2023-03-29,2023-03-31,CG-4326,Corporate,West,Ohio,Furniture,Chairs,112.65,5,0.11,17.18
+CA-1302,2023-06-20,2023-06-25,CG-8618,Corporate,Central,Michigan,Office Supplies,Labels,367.14,6,0.13,-7.29
+CA-1303,2023-12-30,2024-01-03,CG-4824,Consumer,East,Michigan,Technology,Accessories,1918.72,1,0.01,604.07
+CA-1304,2023-11-19,2023-11-23,CG-1692,Consumer,East,New York,Technology,Phones,999.86,1,0.24,-60.96
+CA-1305,2023-04-01,2023-04-03,CG-5200,Consumer,East,California,Office Supplies,Art,459.94,4,0.01,158.08
+CA-1306,2023-07-12,2023-07-13,CG-1660,Corporate,East,Michigan,Furniture,Chairs,1430.64,5,0.22,76.18
+CA-1307,2023-04-09,2023-04-12,CG-9275,Home Office,West,Florida,Technology,Accessories,1826.76,8,0.12,381.15
+CA-1308,2023-08-30,2023-09-03,CG-5570,Consumer,West,Michigan,Furniture,Furnishings,564.19,7,0.01,158.52
+CA-1309,2023-11-20,2023-11-23,CG-4075,Consumer,West,New York,Technology,Copiers,1688.14,4,0.21,208.07
+CA-1310,2023-11-19,2023-11-21,CG-5776,Consumer,West,Georgia,Furniture,Furnishings,506.04,5,0.12,74.12
+CA-1311,2023-11-09,2023-11-18,CG-6634,Corporate,East,Illinois,Furniture,Tables,380.78,7,0.09,38.05
+CA-1312,2023-06-28,2023-07-04,CG-9497,Home Office,Central,Florida,Office Supplies,Labels,334.89,9,0.25,-9.29
+CA-1313,2023-01-30,2023-02-04,CG-6141,Consumer,Central,New York,Technology,Machines,425.64,6,0.12,18.91
+CA-1314,2023-08-01,2023-08-07,CG-4722,Consumer,Central,California,Technology,Accessories,1180.09,2,0.23,48.32
+CA-1315,2023-01-10,2023-01-16,CG-3610,Consumer,West,Florida,Technology,Phones,433.89,5,0.03,96.93
+CA-1316,2023-10-19,2023-10-20,CG-1406,Consumer,South,Michigan,Office Supplies,Supplies,98.3,7,0.14,23.37
+CA-1317,2023-06-16,2023-06-25,CG-2538,Consumer,East,New York,Furniture,Chairs,299.04,6,0.1,87.58
+CA-1318,2023-12-03,2023-12-04,CG-7033,Home Office,West,Georgia,Furniture,Chairs,632.72,4,0.24,53.45
+CA-1319,2023-12-05,2023-12-09,CG-4922,Home Office,Central,Ohio,Office Supplies,Storage,485.43,7,0.07,116.97
+CA-1320,2023-06-17,2023-06-20,CG-2481,Consumer,West,Illinois,Technology,Copiers,1752.75,3,0.29,-206.34
+CA-1321,2023-03-30,2023-04-03,CG-4277,Home Office,Central,Florida,Technology,Machines,1768.55,3,0.15,-51.62
+CA-1322,2023-04-24,2023-05-01,CG-2424,Home Office,South,Texas,Furniture,Chairs,127.71,5,0.09,14.54
+CA-1323,2023-04-07,2023-04-12,CG-1018,Consumer,Central,Ohio,Furniture,Tables,445.98,1,0.09,64.27
+CA-1324,2023-08-02,2023-08-07,CG-7358,Home Office,East,Ohio,Technology,Accessories,1900.01,4,0.2,167.66
+CA-1325,2023-05-08,2023-05-14,CG-6788,Consumer,Central,Florida,Furniture,Furnishings,486.85,9,0.29,-84.64
+CA-1326,2023-07-21,2023-07-22,CG-4802,Corporate,East,Texas,Furniture,Furnishings,665.04,5,0.06,144.79
+CA-1327,2023-06-26,2023-07-03,CG-5117,Home Office,South,Texas,Office Supplies,Storage,372.68,2,0.09,78.56
+CA-1328,2023-06-03,2023-06-10,CG-4554,Home Office,South,Illinois,Technology,Machines,323.0,9,0.03,81.43
+CA-1329,2023-11-18,2023-11-23,CG-5195,Corporate,East,New York,Office Supplies,Labels,286.19,9,0.21,20.32
+CA-1330,2023-02-28,2023-03-02,CG-9751,Consumer,Central,California,Technology,Machines,1008.35,5,0.28,37.85
+CA-1331,2023-09-05,2023-09-11,CG-1082,Corporate,East,California,Furniture,Furnishings,978.48,4,0.28,-17.89
+CA-1332,2023-05-18,2023-05-22,CG-3101,Consumer,West,Ohio,Office Supplies,Supplies,339.51,6,0.03,24.42
+CA-1333,2023-06-27,2023-06-30,CG-9089,Home Office,West,Georgia,Furniture,Furnishings,1305.85,4,0.13,243.82
+CA-1334,2023-09-05,2023-09-06,CG-2134,Home Office,West,California,Office Supplies,Art,359.89,8,0.2,53.74
+CA-1335,2023-02-16,2023-02-17,CG-5426,Consumer,East,Illinois,Technology,Copiers,1840.1,2,0.22,114.45
+CA-1336,2023-01-16,2023-01-18,CG-2993,Corporate,Central,Georgia,Office Supplies,Art,404.49,3,0.15,14.94
+CA-1337,2023-12-24,2023-12-25,CG-9024,Home Office,Central,New York,Office Supplies,Supplies,43.54,1,0.28,-0.04
+CA-1338,2023-10-22,2023-10-23,CG-6307,Consumer,East,Illinois,Furniture,Tables,1202.34,5,0.12,287.02
+CA-1339,2023-08-18,2023-08-26,CG-8352,Corporate,Central,New York,Furniture,Bookcases,189.61,2,0.15,35.17
+CA-1340,2023-07-24,2023-07-28,CG-4074,Corporate,Central,Georgia,Furniture,Bookcases,787.53,4,0.06,95.53
+CA-1341,2023-08-30,2023-09-08,CG-3668,Consumer,East,Ohio,Furniture,Furnishings,822.99,1,0.06,200.46
+CA-1342,2023-10-30,2023-11-03,CG-1060,Home Office,South,Florida,Furniture,Chairs,533.73,8,0.17,5.58
+CA-1343,2023-11-15,2023-11-19,CG-3854,Consumer,West,Georgia,Office Supplies,Supplies,406.57,5,0.1,44.03
+CA-1344,2023-12-02,2023-12-03,CG-1086,Consumer,West,Illinois,Furniture,Tables,874.72,3,0.1,132.79
+CA-1345,2023-03-17,2023-03-24,CG-2647,Home Office,East,California,Technology,Machines,732.7,5,0.12,141.59
+CA-1346,2023-02-14,2023-02-15,CG-9912,Home Office,Central,Illinois,Office Supplies,Storage,368.88,2,0.09,63.95
+CA-1347,2023-05-06,2023-05-09,CG-3294,Corporate,East,Texas,Technology,Copiers,1247.86,2,0.16,157.93
+CA-1348,2023-02-16,2023-02-22,CG-4360,Home Office,South,Ohio,Technology,Machines,1927.75,8,0.3,-137.74
+CA-1349,2023-01-19,2023-01-22,CG-5188,Corporate,Central,Georgia,Office Supplies,Storage,109.8,2,0.12,26.08
+CA-1350,2023-08-27,2023-08-28,CG-6126,Consumer,Central,Illinois,Furniture,Bookcases,299.98,1,0.06,46.7
+CA-1351,2023-11-10,2023-11-11,CG-4700,Home Office,West,California,Furniture,Tables,1209.86,9,0.2,24.76
+CA-1352,2023-10-09,2023-10-18,CG-4816,Corporate,Central,California,Furniture,Chairs,1249.94,9,0.15,68.2
+CA-1353,2023-07-18,2023-07-21,CG-7801,Home Office,East,California,Furniture,Bookcases,752.83,5,0.12,129.04
+CA-1354,2023-02-17,2023-02-19,CG-7476,Corporate,East,Florida,Technology,Phones,1537.55,4,0.19,-111.11
+CA-1355,2023-02-14,2023-02-20,CG-6951,Home Office,Central,Michigan,Furniture,Bookcases,159.97,3,0.07,22.26
+CA-1356,2023-02-09,2023-02-16,CG-1670,Corporate,Central,New York,Technology,Machines,829.9,2,0.2,38.75
+CA-1357,2023-05-04,2023-05-06,CG-4792,Consumer,Central,Georgia,Furniture,Furnishings,1173.12,5,0.16,57.18
+CA-1358,2023-12-21,2023-12-26,CG-1990,Home Office,Central,Florida,Furniture,Bookcases,337.83,9,0.1,38.22
+CA-1359,2023-10-04,2023-10-08,CG-6944,Corporate,West,Illinois,Office Supplies,Art,86.67,6,0.12,13.93
+CA-1360,2023-02-09,2023-02-11,CG-1370,Corporate,East,Florida,Office Supplies,Supplies,375.42,1,0.18,-13.25
+CA-1361,2023-12-12,2023-12-19,CG-7204,Corporate,East,Michigan,Furniture,Furnishings,869.08,9,0.08,262.9
+CA-1362,2023-05-09,2023-05-14,CG-8647,Corporate,East,Illinois,Technology,Copiers,1682.78,7,0.23,190.92
+CA-1363,2023-10-06,2023-10-13,CG-7718,Corporate,Central,Florida,Office Supplies,Storage,376.44,1,0.13,-7.66
+CA-1364,2023-01-22,2023-01-28,CG-3103,Consumer,West,Michigan,Technology,Accessories,1203.21,8,0.26,93.48
+CA-1365,2023-07-06,2023-07-14,CG-6669,Home Office,West,Georgia,Furniture,Tables,232.06,8,0.07,46.02
+CA-1366,2023-06-25,2023-06-29,CG-7396,Home Office,West,Georgia,Technology,Copiers,1413.67,3,0.3,-179.31
+CA-1367,2023-09-26,2023-09-27,CG-1919,Home Office,Central,New York,Technology,Phones,1610.73,5,0.07,55.91
+CA-1368,2023-04-24,2023-04-25,CG-1067,Home Office,South,Michigan,Technology,Machines,1214.11,5,0.26,20.34
+CA-1369,2023-03-02,2023-03-05,CG-7838,Home Office,East,Texas,Furniture,Bookcases,910.38,3,0.26,-42.59
+CA-1370,2023-01-28,2023-02-02,CG-8845,Home Office,South,Illinois,Technology,Phones,1966.01,4,0.26,-39.25
+CA-1371,2023-01-14,2023-01-16,CG-1570,Home Office,South,Ohio,Office Supplies,Supplies,471.43,5,0.19,-34.5
+CA-1372,2023-12-11,2023-12-20,CG-8086,Corporate,East,Ohio,Technology,Phones,1344.69,4,0.12,49.89
+CA-1373,2023-07-28,2023-07-30,CG-3690,Corporate,Central,California,Technology,Accessories,1459.35,8,0.24,215.16
+CA-1374,2023-06-05,2023-06-13,CG-9135,Corporate,East,Illinois,Furniture,Tables,901.65,6,0.19,-62.4
+CA-1375,2023-12-30,2024-01-07,CG-6866,Home Office,East,Florida,Furniture,Furnishings,423.11,1,0.18,77.11
+CA-1376,2023-01-07,2023-01-15,CG-4294,Home Office,West,Georgia,Technology,Phones,1995.03,4,0.06,483.79
+CA-1377,2023-04-29,2023-05-08,CG-4856,Home Office,South,Illinois,Office Supplies,Art,174.29,7,0.13,15.37
+CA-1378,2023-03-05,2023-03-08,CG-3775,Corporate,South,Texas,Office Supplies,Labels,113.29,2,0.14,-2.94
+CA-1379,2023-02-21,2023-02-26,CG-1191,Home Office,West,Ohio,Furniture,Furnishings,260.2,8,0.05,30.06
+CA-1380,2023-04-03,2023-04-11,CG-6457,Corporate,South,Florida,Furniture,Furnishings,1043.59,4,0.06,291.74
+CA-1381,2023-06-15,2023-06-23,CG-4199,Home Office,Central,Georgia,Office Supplies,Art,416.36,5,0.14,79.37
+CA-1382,2023-08-26,2023-09-03,CG-7324,Home Office,Central,Michigan,Office Supplies,Labels,50.31,7,0.3,-3.85
+CA-1383,2023-07-03,2023-07-05,CG-7094,Consumer,East,Illinois,Furniture,Furnishings,866.13,8,0.2,-34.2
+CA-1384,2023-11-15,2023-11-22,CG-1446,Home Office,West,California,Furniture,Furnishings,620.05,5,0.15,108.93
+CA-1385,2023-11-28,2023-12-04,CG-3535,Home Office,Central,Georgia,Furniture,Bookcases,1219.61,7,0.21,18.64
+CA-1386,2023-12-31,2024-01-01,CG-2695,Consumer,West,Ohio,Technology,Phones,1242.77,6,0.07,244.64
+CA-1387,2023-07-06,2023-07-12,CG-9597,Home Office,East,Michigan,Furniture,Tables,1295.97,3,0.05,379.54
+CA-1388,2023-04-06,2023-04-12,CG-8243,Home Office,Central,Ohio,Furniture,Tables,624.37,3,0.28,54.02
+CA-1389,2023-06-26,2023-07-01,CG-7531,Corporate,Central,California,Technology,Phones,654.76,5,0.26,-57.17
+CA-1390,2023-01-13,2023-01-15,CG-4129,Consumer,Central,Florida,Furniture,Chairs,312.87,1,0.17,-2.02
+CA-1391,2023-11-24,2023-11-26,CG-2724,Home Office,West,Georgia,Office Supplies,Supplies,111.7,7,0.0,36.84
+CA-1392,2023-09-29,2023-10-06,CG-3828,Corporate,East,Texas,Technology,Phones,1467.35,2,0.12,335.89
+CA-1393,2023-06-20,2023-06-25,CG-4435,Corporate,West,Michigan,Technology,Phones,1119.05,4,0.2,44.19
+CA-1394,2023-02-22,2023-03-01,CG-4871,Corporate,West,California,Furniture,Tables,1494.96,3,0.23,-91.9
+CA-1395,2023-09-28,2023-09-29,CG-8850,Consumer,East,California,Furniture,Furnishings,493.47,1,0.18,-11.49
+CA-1396,2023-12-17,2023-12-18,CG-9100,Consumer,Central,Texas,Furniture,Chairs,892.09,7,0.28,-61.06
+CA-1397,2023-07-11,2023-07-14,CG-2874,Corporate,Central,California,Furniture,Bookcases,686.02,8,0.01,260.29
+CA-1398,2023-12-25,2023-12-26,CG-7320,Corporate,South,Michigan,Office Supplies,Supplies,425.57,7,0.18,30.65
+CA-1399,2023-10-26,2023-10-30,CG-6305,Corporate,West,Florida,Office Supplies,Supplies,276.08,4,0.19,58.04
+CA-1400,2023-09-09,2023-09-12,CG-7603,Corporate,Central,Michigan,Technology,Copiers,669.89,2,0.3,-23.59
+CA-1401,2023-07-27,2023-07-29,CG-8678,Corporate,Central,New York,Furniture,Bookcases,327.91,8,0.1,43.35
+CA-1402,2023-10-17,2023-10-20,CG-9002,Corporate,Central,Ohio,Office Supplies,Art,453.34,4,0.23,21.4
+CA-1403,2023-06-01,2023-06-06,CG-7305,Home Office,East,New York,Furniture,Bookcases,747.35,9,0.2,18.16
+CA-1404,2023-12-17,2023-12-19,CG-6552,Home Office,Central,Georgia,Technology,Copiers,688.94,9,0.22,112.4
+CA-1405,2023-04-26,2023-05-02,CG-3672,Consumer,East,Illinois,Furniture,Furnishings,503.12,4,0.22,34.97
+CA-1406,2023-12-29,2024-01-05,CG-8347,Home Office,East,Illinois,Technology,Machines,1141.66,3,0.12,165.45
+CA-1407,2023-07-19,2023-07-26,CG-4932,Home Office,West,Michigan,Furniture,Tables,907.6,7,0.11,17.42
+CA-1408,2023-07-16,2023-07-25,CG-7078,Home Office,Central,Texas,Furniture,Furnishings,145.42,7,0.05,31.79
+CA-1409,2023-08-08,2023-08-17,CG-1896,Home Office,South,Texas,Furniture,Furnishings,586.53,7,0.03,43.09
+CA-1410,2023-10-05,2023-10-13,CG-5117,Consumer,South,California,Furniture,Chairs,908.68,6,0.27,49.28
+CA-1411,2023-06-15,2023-06-18,CG-5591,Consumer,Central,Michigan,Office Supplies,Labels,35.38,6,0.06,2.22
+CA-1412,2023-03-19,2023-03-25,CG-3462,Home Office,East,Ohio,Technology,Copiers,1655.13,6,0.23,175.26
+CA-1413,2023-09-02,2023-09-10,CG-1985,Home Office,Central,Ohio,Furniture,Tables,207.2,7,0.16,-10.29
+CA-1414,2023-01-20,2023-01-26,CG-8566,Corporate,South,Michigan,Office Supplies,Art,172.73,9,0.21,-16.22
+CA-1415,2023-01-19,2023-01-22,CG-2073,Consumer,South,New York,Technology,Copiers,1892.33,8,0.1,256.52
+CA-1416,2023-03-06,2023-03-09,CG-5524,Consumer,East,Texas,Office Supplies,Storage,44.35,4,0.17,-2.58
+CA-1417,2023-12-12,2023-12-14,CG-4575,Home Office,South,Ohio,Technology,Accessories,672.22,7,0.07,201.48
+CA-1418,2023-12-30,2024-01-02,CG-1422,Home Office,East,Illinois,Furniture,Furnishings,664.49,6,0.16,95.58
+CA-1419,2023-03-01,2023-03-03,CG-4075,Home Office,East,Illinois,Technology,Phones,214.51,8,0.25,-5.15
+CA-1420,2023-04-03,2023-04-10,CG-3671,Corporate,Central,Texas,Office Supplies,Labels,247.17,9,0.09,44.34
+CA-1421,2023-11-19,2023-11-20,CG-2216,Home Office,Central,California,Furniture,Bookcases,584.13,6,0.25,-8.15
+CA-1422,2023-05-30,2023-06-06,CG-2814,Home Office,West,New York,Office Supplies,Labels,498.84,7,0.14,45.59
+CA-1423,2023-07-21,2023-07-24,CG-3415,Consumer,South,Illinois,Technology,Copiers,1183.63,9,0.05,122.17
+CA-1424,2023-01-25,2023-02-03,CG-6578,Corporate,East,Ohio,Technology,Accessories,229.87,3,0.18,-7.32
+CA-1425,2023-01-11,2023-01-16,CG-7197,Consumer,East,Illinois,Technology,Accessories,676.13,2,0.28,-35.19
+CA-1426,2023-11-27,2023-11-28,CG-9430,Home Office,East,New York,Furniture,Bookcases,916.55,6,0.23,-37.0
+CA-1427,2023-10-31,2023-11-04,CG-5670,Home Office,East,Texas,Office Supplies,Labels,272.33,8,0.27,-16.03
+CA-1428,2023-01-12,2023-01-13,CG-7543,Home Office,West,California,Furniture,Furnishings,1402.56,4,0.14,92.88
+CA-1429,2023-09-27,2023-10-04,CG-5713,Consumer,Central,Florida,Furniture,Chairs,1118.54,4,0.21,64.53
+CA-1430,2023-01-21,2023-01-26,CG-8108,Home Office,South,Florida,Furniture,Furnishings,1127.47,4,0.12,17.31
+CA-1431,2023-12-22,2023-12-25,CG-1931,Home Office,East,Illinois,Technology,Machines,1956.86,4,0.27,201.32
+CA-1432,2023-11-25,2023-12-02,CG-4121,Home Office,South,Ohio,Office Supplies,Supplies,339.47,9,0.04,75.14
+CA-1433,2023-12-04,2023-12-09,CG-5675,Home Office,East,New York,Furniture,Tables,1039.78,2,0.01,233.28
+CA-1434,2023-05-27,2023-05-30,CG-7337,Consumer,West,Illinois,Technology,Accessories,1973.31,2,0.13,204.48
+CA-1435,2023-11-12,2023-11-20,CG-4398,Consumer,Central,Michigan,Office Supplies,Labels,467.87,8,0.25,9.3
+CA-1436,2023-11-02,2023-11-03,CG-7553,Consumer,South,Florida,Furniture,Bookcases,394.45,7,0.08,111.93
+CA-1437,2023-10-23,2023-10-25,CG-3077,Home Office,South,Illinois,Technology,Copiers,473.2,1,0.28,22.04
+CA-1438,2023-03-25,2023-03-31,CG-9745,Consumer,Central,Illinois,Office Supplies,Supplies,472.1,1,0.19,64.45
+CA-1439,2023-10-30,2023-11-04,CG-7155,Corporate,Central,Illinois,Office Supplies,Storage,426.23,9,0.3,-61.39
+CA-1440,2023-03-14,2023-03-23,CG-2409,Corporate,Central,California,Office Supplies,Supplies,23.65,2,0.13,3.23
+CA-1441,2023-06-08,2023-06-17,CG-4977,Corporate,East,Illinois,Technology,Copiers,1265.63,4,0.17,102.4
+CA-1442,2023-04-20,2023-04-25,CG-8189,Corporate,Central,Ohio,Office Supplies,Supplies,432.87,6,0.04,117.5
+CA-1443,2023-07-25,2023-07-29,CG-5218,Consumer,Central,California,Furniture,Furnishings,960.28,6,0.09,11.13
+CA-1444,2023-07-06,2023-07-11,CG-8766,Consumer,Central,New York,Office Supplies,Labels,17.96,6,0.21,2.97
+CA-1445,2023-05-22,2023-05-29,CG-7998,Corporate,Central,Georgia,Furniture,Chairs,744.94,2,0.1,203.22
+CA-1446,2023-04-14,2023-04-15,CG-7394,Consumer,South,New York,Furniture,Furnishings,456.27,6,0.03,144.62
+CA-1447,2023-07-31,2023-08-03,CG-3778,Consumer,West,Illinois,Office Supplies,Labels,278.95,6,0.2,54.89
+CA-1448,2023-03-30,2023-04-07,CG-3575,Home Office,West,Florida,Technology,Copiers,518.41,6,0.13,65.49
+CA-1449,2023-04-09,2023-04-13,CG-8493,Corporate,South,California,Technology,Machines,1057.63,1,0.12,191.37
+CA-1450,2023-01-08,2023-01-11,CG-1242,Consumer,South,Florida,Technology,Phones,1241.29,4,0.21,143.81
+CA-1451,2023-10-02,2023-10-08,CG-6162,Home Office,West,New York,Furniture,Chairs,135.97,6,0.09,21.12
+CA-1452,2023-07-30,2023-08-07,CG-7578,Corporate,East,Michigan,Technology,Machines,736.54,9,0.03,67.24
+CA-1453,2023-09-25,2023-10-02,CG-1941,Corporate,South,Texas,Office Supplies,Labels,466.95,2,0.15,73.48
+CA-1454,2023-08-18,2023-08-19,CG-5362,Corporate,Central,California,Technology,Copiers,1180.59,4,0.22,-11.36
+CA-1455,2023-12-25,2023-12-29,CG-1599,Consumer,Central,Texas,Office Supplies,Art,175.28,3,0.27,-29.29
+CA-1456,2023-07-27,2023-08-05,CG-9557,Consumer,West,Illinois,Office Supplies,Art,172.36,6,0.19,32.88
+CA-1457,2023-05-02,2023-05-08,CG-8008,Consumer,South,Illinois,Technology,Machines,1252.18,9,0.11,6.59
+CA-1458,2023-06-13,2023-06-16,CG-1946,Corporate,Central,California,Technology,Copiers,405.45,4,0.12,5.81
+CA-1459,2023-12-24,2023-12-29,CG-2192,Corporate,Central,Texas,Office Supplies,Supplies,408.72,7,0.19,78.37
+CA-1460,2023-11-26,2023-12-05,CG-2539,Home Office,Central,Illinois,Office Supplies,Art,435.4,1,0.04,78.14
+CA-1461,2023-05-12,2023-05-18,CG-3339,Corporate,Central,California,Technology,Machines,854.56,3,0.03,120.78
+CA-1462,2023-09-01,2023-09-10,CG-6037,Corporate,Central,Florida,Furniture,Furnishings,881.69,4,0.18,64.17
+CA-1463,2023-02-08,2023-02-17,CG-2478,Corporate,East,Ohio,Technology,Machines,1334.17,4,0.24,-69.27
+CA-1464,2023-09-10,2023-09-11,CG-9210,Home Office,East,Texas,Technology,Machines,518.88,6,0.18,82.76
+CA-1465,2023-04-11,2023-04-13,CG-4494,Home Office,East,Illinois,Office Supplies,Storage,448.58,5,0.24,22.25
+CA-1466,2023-09-03,2023-09-08,CG-9465,Home Office,West,California,Technology,Machines,832.78,2,0.19,17.57
+CA-1467,2023-09-16,2023-09-23,CG-7748,Home Office,East,Florida,Office Supplies,Storage,453.71,4,0.06,54.23
+CA-1468,2023-01-22,2023-01-24,CG-6798,Home Office,East,Texas,Furniture,Bookcases,937.99,7,0.07,267.95
+CA-1469,2023-08-12,2023-08-15,CG-9671,Home Office,West,California,Office Supplies,Storage,411.61,5,0.18,60.84
+CA-1470,2023-11-26,2023-12-03,CG-9226,Corporate,South,Georgia,Furniture,Bookcases,328.71,3,0.22,-16.25
+CA-1471,2023-01-06,2023-01-12,CG-1556,Consumer,West,New York,Technology,Copiers,687.12,4,0.14,-27.57
+CA-1472,2023-05-16,2023-05-23,CG-5321,Consumer,South,Michigan,Furniture,Furnishings,461.35,5,0.01,52.96
+CA-1473,2023-10-05,2023-10-13,CG-2689,Consumer,West,Florida,Furniture,Tables,1424.36,8,0.09,48.67
+CA-1474,2023-11-30,2023-12-09,CG-2819,Consumer,South,New York,Office Supplies,Labels,367.11,9,0.04,63.1
+CA-1475,2023-05-26,2023-06-04,CG-6089,Home Office,Central,New York,Technology,Phones,947.8,4,0.17,-63.71
+CA-1476,2023-11-19,2023-11-27,CG-9558,Corporate,Central,Michigan,Technology,Machines,1082.74,5,0.03,134.93
+CA-1477,2023-12-04,2023-12-06,CG-6266,Corporate,South,Illinois,Office Supplies,Labels,461.99,2,0.19,48.93
+CA-1478,2023-02-04,2023-02-11,CG-7869,Consumer,East,Ohio,Office Supplies,Art,367.82,8,0.12,37.92
+CA-1479,2023-05-31,2023-06-08,CG-4197,Corporate,South,Texas,Technology,Copiers,956.02,1,0.25,87.44
+CA-1480,2023-06-26,2023-07-01,CG-7453,Corporate,South,Texas,Technology,Accessories,1027.36,6,0.12,138.76
+CA-1481,2023-05-30,2023-06-02,CG-5758,Consumer,East,Michigan,Technology,Accessories,1229.22,8,0.04,226.74
+CA-1482,2023-04-25,2023-05-02,CG-6014,Home Office,South,Georgia,Office Supplies,Storage,300.95,7,0.07,67.3
+CA-1483,2023-12-13,2023-12-15,CG-5340,Home Office,South,Michigan,Technology,Machines,1051.45,4,0.21,-11.18
+CA-1484,2023-04-19,2023-04-28,CG-9219,Home Office,West,Texas,Furniture,Chairs,716.75,4,0.08,105.6
+CA-1485,2023-01-25,2023-01-27,CG-2378,Consumer,East,New York,Furniture,Chairs,1128.45,2,0.28,-146.83
+CA-1486,2023-08-13,2023-08-21,CG-3476,Home Office,East,Michigan,Furniture,Furnishings,670.31,3,0.27,-73.79
+CA-1487,2023-05-06,2023-05-08,CG-8209,Consumer,Central,Texas,Furniture,Bookcases,1231.75,9,0.22,183.48
+CA-1488,2023-12-02,2023-12-10,CG-7191,Home Office,East,Texas,Furniture,Chairs,931.67,5,0.13,145.97
+CA-1489,2023-02-08,2023-02-17,CG-7297,Corporate,Central,Michigan,Furniture,Chairs,946.78,4,0.19,100.22
+CA-1490,2023-07-28,2023-07-31,CG-7915,Consumer,Central,Illinois,Technology,Phones,1216.26,2,0.27,96.15
+CA-1491,2023-04-19,2023-04-28,CG-8465,Home Office,Central,Georgia,Office Supplies,Supplies,449.72,5,0.0,166.71
+CA-1492,2023-06-13,2023-06-21,CG-1571,Consumer,Central,Illinois,Office Supplies,Supplies,381.44,4,0.15,57.4
+CA-1493,2023-10-06,2023-10-13,CG-8601,Home Office,West,Georgia,Furniture,Tables,623.53,5,0.23,48.47
+CA-1494,2023-10-03,2023-10-10,CG-3933,Consumer,West,Texas,Furniture,Chairs,699.46,7,0.15,29.6
+CA-1495,2023-12-06,2023-12-11,CG-2515,Home Office,East,New York,Technology,Machines,557.54,8,0.25,50.71
+CA-1496,2023-02-04,2023-02-11,CG-6109,Corporate,West,New York,Office Supplies,Supplies,194.57,3,0.24,26.19
+CA-1497,2023-08-20,2023-08-23,CG-4992,Corporate,Central,Michigan,Technology,Machines,1182.66,7,0.26,85.42
+CA-1498,2023-01-06,2023-01-14,CG-8037,Corporate,South,Ohio,Furniture,Tables,564.26,1,0.2,-17.73
+CA-1499,2023-10-11,2023-10-14,CG-5922,Home Office,East,Illinois,Office Supplies,Labels,476.67,5,0.2,-16.26
+CA-1500,2023-11-24,2023-11-27,CG-1378,Corporate,South,Georgia,Furniture,Chairs,1087.06,8,0.2,-30.03
+CA-1501,2023-09-03,2023-09-11,CG-7004,Home Office,South,California,Technology,Copiers,1728.38,7,0.05,519.29
+CA-1502,2023-06-27,2023-07-01,CG-6806,Consumer,West,New York,Technology,Phones,1029.62,5,0.29,87.9
+CA-1503,2023-04-09,2023-04-13,CG-6969,Corporate,South,Michigan,Furniture,Chairs,608.18,1,0.09,30.71
+CA-1504,2023-02-19,2023-02-25,CG-5482,Corporate,East,Georgia,Technology,Machines,829.63,2,0.19,-6.84
+CA-1505,2023-07-09,2023-07-18,CG-5174,Corporate,Central,Michigan,Furniture,Furnishings,1493.66,4,0.16,342.73
+CA-1506,2023-08-24,2023-09-02,CG-5435,Consumer,East,Texas,Office Supplies,Labels,441.16,9,0.04,155.87
+CA-1507,2023-03-26,2023-03-31,CG-1596,Corporate,South,Illinois,Office Supplies,Art,340.04,1,0.08,10.46
+CA-1508,2023-12-16,2023-12-22,CG-7852,Consumer,South,California,Furniture,Chairs,1388.97,3,0.02,201.2
+CA-1509,2023-07-04,2023-07-06,CG-3925,Consumer,South,Florida,Office Supplies,Supplies,147.88,2,0.05,12.68
+CA-1510,2023-04-07,2023-04-09,CG-2567,Home Office,West,Georgia,Furniture,Chairs,266.8,4,0.07,13.14
+CA-1511,2023-06-10,2023-06-19,CG-3741,Home Office,Central,Florida,Office Supplies,Art,124.04,7,0.23,-5.3
+CA-1512,2023-04-23,2023-04-28,CG-5961,Home Office,South,Illinois,Office Supplies,Storage,432.11,7,0.2,-39.74
+CA-1513,2023-11-10,2023-11-14,CG-7637,Home Office,South,Michigan,Office Supplies,Art,285.59,6,0.07,53.39
+CA-1514,2023-11-01,2023-11-05,CG-7103,Corporate,South,Illinois,Furniture,Tables,583.81,3,0.04,40.24
+CA-1515,2023-11-24,2023-11-25,CG-7429,Corporate,West,California,Technology,Accessories,536.82,9,0.09,73.98
+CA-1516,2023-01-22,2023-01-26,CG-5493,Corporate,West,New York,Furniture,Tables,249.52,2,0.09,24.98
+CA-1517,2023-07-26,2023-08-03,CG-7996,Corporate,South,Michigan,Technology,Accessories,787.31,2,0.27,-91.16
+CA-1518,2023-07-17,2023-07-22,CG-1585,Consumer,South,California,Technology,Phones,1747.36,6,0.0,436.08
+CA-1519,2023-07-11,2023-07-12,CG-9518,Consumer,South,Georgia,Technology,Copiers,1290.67,2,0.11,135.37
+CA-1520,2023-04-06,2023-04-09,CG-9320,Corporate,East,Texas,Furniture,Chairs,804.68,6,0.2,21.68
+CA-1521,2023-08-27,2023-09-01,CG-4918,Corporate,East,New York,Office Supplies,Art,212.62,7,0.29,-26.0
+CA-1522,2023-02-13,2023-02-14,CG-8776,Home Office,Central,Illinois,Technology,Copiers,408.48,5,0.04,117.11
+CA-1523,2023-12-02,2023-12-09,CG-3728,Corporate,South,Michigan,Office Supplies,Storage,177.87,3,0.06,15.33
+CA-1524,2023-05-31,2023-06-07,CG-3565,Home Office,East,Michigan,Technology,Machines,1863.33,9,0.1,174.55
+CA-1525,2023-04-13,2023-04-20,CG-6801,Corporate,East,Ohio,Furniture,Tables,438.57,1,0.06,49.22
+CA-1526,2023-11-03,2023-11-11,CG-7257,Consumer,Central,Georgia,Office Supplies,Labels,359.21,2,0.14,25.76
+CA-1527,2023-07-18,2023-07-27,CG-4237,Home Office,Central,Ohio,Technology,Machines,768.98,9,0.18,-8.23
+CA-1528,2023-02-10,2023-02-18,CG-8127,Corporate,Central,California,Furniture,Furnishings,1375.16,2,0.12,74.92
+CA-1529,2023-05-17,2023-05-21,CG-1151,Consumer,West,Illinois,Office Supplies,Supplies,294.97,5,0.16,59.39
+CA-1530,2023-03-15,2023-03-16,CG-8505,Corporate,East,Michigan,Furniture,Chairs,558.97,9,0.27,-74.12
+CA-1531,2023-02-16,2023-02-25,CG-1153,Consumer,South,New York,Technology,Copiers,608.56,3,0.03,133.93
+CA-1532,2023-06-23,2023-06-24,CG-5272,Corporate,Central,Illinois,Technology,Machines,1851.0,3,0.17,292.39
+CA-1533,2023-07-03,2023-07-06,CG-3349,Home Office,West,Georgia,Office Supplies,Labels,493.03,4,0.28,2.3
+CA-1534,2023-12-22,2023-12-30,CG-4228,Consumer,East,Ohio,Furniture,Chairs,128.03,6,0.2,4.22
+CA-1535,2023-12-14,2023-12-20,CG-1723,Home Office,West,Ohio,Technology,Machines,567.32,7,0.15,-21.19
+CA-1536,2023-03-04,2023-03-07,CG-4661,Consumer,East,New York,Office Supplies,Art,404.75,1,0.27,-4.81
+CA-1537,2023-08-04,2023-08-06,CG-7273,Corporate,West,Florida,Office Supplies,Art,488.87,7,0.12,12.32
+CA-1538,2023-03-25,2023-03-29,CG-2532,Home Office,East,New York,Technology,Copiers,1461.56,4,0.13,98.42
+CA-1539,2023-08-26,2023-09-01,CG-6190,Consumer,Central,Florida,Office Supplies,Art,170.64,6,0.18,6.64
+CA-1540,2023-02-17,2023-02-20,CG-2410,Corporate,Central,New York,Furniture,Bookcases,217.97,7,0.25,-21.74
+CA-1541,2023-03-10,2023-03-17,CG-5517,Consumer,West,California,Technology,Accessories,553.68,1,0.16,93.56
+CA-1542,2023-11-24,2023-12-02,CG-4240,Consumer,South,Georgia,Office Supplies,Labels,362.43,6,0.16,7.03
+CA-1543,2023-01-10,2023-01-11,CG-6204,Consumer,South,Ohio,Technology,Accessories,1068.09,7,0.18,-32.36
+CA-1544,2023-08-02,2023-08-11,CG-4518,Corporate,West,New York,Office Supplies,Supplies,383.48,2,0.06,54.98
+CA-1545,2023-05-20,2023-05-29,CG-7620,Corporate,Central,Texas,Technology,Copiers,1134.76,5,0.24,-97.38
+CA-1546,2023-12-28,2024-01-03,CG-6413,Corporate,West,Ohio,Furniture,Furnishings,585.8,7,0.27,-30.27
+CA-1547,2023-09-03,2023-09-09,CG-9084,Corporate,South,Ohio,Office Supplies,Art,280.88,2,0.02,50.12
+CA-1548,2023-09-05,2023-09-11,CG-7495,Consumer,West,Ohio,Technology,Copiers,1055.69,2,0.02,115.47
+CA-1549,2023-10-31,2023-11-09,CG-9534,Corporate,Central,Texas,Office Supplies,Storage,68.41,2,0.12,7.31
+CA-1550,2023-10-14,2023-10-21,CG-8164,Consumer,West,Texas,Office Supplies,Labels,216.64,2,0.19,37.53
+CA-1551,2023-09-03,2023-09-05,CG-4257,Corporate,East,Michigan,Furniture,Tables,613.52,7,0.23,98.1
+CA-1552,2023-08-06,2023-08-10,CG-4381,Consumer,South,Illinois,Furniture,Furnishings,1287.45,2,0.14,138.93
+CA-1553,2023-07-27,2023-07-28,CG-7233,Corporate,West,California,Office Supplies,Storage,278.19,6,0.07,35.62
+CA-1554,2023-04-14,2023-04-16,CG-4159,Home Office,Central,Florida,Office Supplies,Storage,431.73,2,0.0,92.85
+CA-1555,2023-07-23,2023-07-30,CG-1654,Corporate,Central,California,Technology,Phones,1167.21,4,0.19,-55.64
+CA-1556,2023-12-28,2024-01-05,CG-7154,Home Office,South,Michigan,Technology,Accessories,1325.86,4,0.23,20.3
+CA-1557,2023-04-18,2023-04-23,CG-8311,Home Office,West,Illinois,Furniture,Chairs,719.96,7,0.06,54.99
+CA-1558,2023-07-08,2023-07-12,CG-8688,Home Office,West,Texas,Furniture,Furnishings,724.16,5,0.09,14.97
+CA-1559,2023-01-12,2023-01-17,CG-3415,Corporate,Central,Ohio,Technology,Phones,1958.54,2,0.23,307.44
+CA-1560,2023-02-27,2023-03-05,CG-7821,Consumer,West,Georgia,Furniture,Furnishings,1393.13,3,0.06,387.23
+CA-1561,2023-09-18,2023-09-21,CG-4681,Corporate,South,Texas,Office Supplies,Supplies,460.08,8,0.1,55.16
+CA-1562,2023-04-11,2023-04-14,CG-9963,Consumer,West,Illinois,Office Supplies,Labels,474.37,9,0.1,108.63
+CA-1563,2023-12-15,2023-12-24,CG-8334,Home Office,West,Texas,Technology,Copiers,611.0,4,0.09,93.06
+CA-1564,2023-12-18,2023-12-19,CG-2173,Home Office,South,Michigan,Technology,Machines,1791.82,7,0.0,352.42
+CA-1565,2023-05-12,2023-05-13,CG-6287,Home Office,West,Florida,Technology,Accessories,213.24,8,0.04,63.95
+CA-1566,2023-02-17,2023-02-20,CG-8619,Home Office,East,Georgia,Furniture,Furnishings,603.61,9,0.24,72.41
+CA-1567,2023-07-14,2023-07-20,CG-7851,Consumer,East,Texas,Furniture,Tables,772.78,1,0.03,58.56
+CA-1568,2023-12-17,2023-12-24,CG-5428,Corporate,West,Florida,Technology,Accessories,1949.32,5,0.12,254.03
+CA-1569,2023-02-14,2023-02-16,CG-9737,Corporate,East,Florida,Technology,Phones,562.53,9,0.05,84.36
+CA-1570,2023-07-13,2023-07-18,CG-9154,Home Office,East,Michigan,Office Supplies,Storage,97.79,5,0.14,4.04
+CA-1571,2023-05-08,2023-05-11,CG-4129,Consumer,Central,California,Furniture,Bookcases,990.28,5,0.02,89.47
+CA-1572,2023-07-04,2023-07-08,CG-7752,Consumer,Central,Ohio,Technology,Accessories,722.46,2,0.0,235.1
+CA-1573,2023-08-09,2023-08-10,CG-5222,Corporate,Central,Texas,Technology,Machines,1835.96,7,0.1,337.4
+CA-1574,2023-03-21,2023-03-29,CG-6724,Corporate,South,Florida,Office Supplies,Art,446.32,5,0.04,103.15
+CA-1575,2023-01-19,2023-01-20,CG-1997,Consumer,West,New York,Office Supplies,Storage,202.21,8,0.05,37.51
+CA-1576,2023-02-24,2023-02-28,CG-3248,Consumer,East,Illinois,Technology,Copiers,1900.47,3,0.08,240.49
+CA-1577,2023-12-03,2023-12-05,CG-9449,Home Office,South,Michigan,Technology,Machines,490.61,4,0.24,-63.41
+CA-1578,2023-03-04,2023-03-08,CG-4459,Home Office,West,Illinois,Technology,Machines,717.52,7,0.16,44.27
+CA-1579,2023-07-16,2023-07-20,CG-9720,Consumer,West,Florida,Technology,Copiers,1450.95,2,0.03,396.45
+CA-1580,2023-10-13,2023-10-21,CG-3044,Home Office,South,Georgia,Furniture,Chairs,585.74,9,0.23,6.28
+CA-1581,2023-08-02,2023-08-05,CG-6053,Consumer,Central,Florida,Furniture,Chairs,414.14,1,0.07,29.93
+CA-1582,2023-04-13,2023-04-19,CG-2502,Corporate,Central,Ohio,Technology,Copiers,1754.18,7,0.26,-155.27
+CA-1583,2023-09-11,2023-09-13,CG-3594,Home Office,Central,Texas,Office Supplies,Labels,203.29,9,0.07,64.41
+CA-1584,2023-03-23,2023-03-28,CG-5911,Corporate,Central,Ohio,Technology,Copiers,781.38,2,0.16,116.04
+CA-1585,2023-06-15,2023-06-22,CG-7523,Home Office,Central,California,Furniture,Bookcases,541.89,5,0.21,-60.32
+CA-1586,2023-12-25,2023-12-27,CG-7130,Corporate,East,Georgia,Office Supplies,Supplies,491.84,4,0.12,-10.19
+CA-1587,2023-09-09,2023-09-16,CG-2101,Home Office,South,Texas,Office Supplies,Art,302.11,3,0.06,87.37
+CA-1588,2023-11-22,2023-11-24,CG-9879,Consumer,East,Michigan,Technology,Accessories,440.8,3,0.02,60.8
+CA-1589,2023-05-25,2023-06-01,CG-4557,Consumer,Central,Texas,Office Supplies,Labels,360.53,4,0.06,57.43
+CA-1590,2023-01-04,2023-01-12,CG-4395,Home Office,South,New York,Furniture,Chairs,195.25,6,0.11,14.2
+CA-1591,2023-10-29,2023-11-04,CG-3581,Consumer,Central,Michigan,Furniture,Bookcases,989.88,2,0.0,217.58
+CA-1592,2023-04-17,2023-04-24,CG-9684,Home Office,South,Florida,Office Supplies,Supplies,366.24,4,0.26,-51.19
+CA-1593,2023-09-25,2023-10-03,CG-9714,Corporate,West,California,Office Supplies,Supplies,288.96,3,0.14,16.7
+CA-1594,2023-11-23,2023-11-28,CG-7559,Corporate,East,Florida,Office Supplies,Labels,35.07,7,0.09,10.17
+CA-1595,2023-01-20,2023-01-29,CG-4990,Corporate,East,Michigan,Furniture,Furnishings,286.6,1,0.14,3.59
+CA-1596,2023-04-01,2023-04-07,CG-6408,Corporate,East,Michigan,Office Supplies,Supplies,65.84,1,0.25,1.51
+CA-1597,2023-10-05,2023-10-07,CG-5777,Home Office,West,Georgia,Office Supplies,Art,51.78,5,0.13,2.97
+CA-1598,2023-05-03,2023-05-05,CG-6956,Home Office,West,Michigan,Office Supplies,Art,81.3,2,0.16,6.64
+CA-1599,2023-04-02,2023-04-07,CG-3500,Home Office,West,Florida,Furniture,Bookcases,542.04,7,0.04,74.43
+CA-1600,2023-08-14,2023-08-19,CG-8170,Home Office,Central,Texas,Technology,Accessories,1524.66,6,0.19,16.09
+CA-1601,2023-03-05,2023-03-09,CG-5161,Home Office,West,Ohio,Office Supplies,Labels,365.41,5,0.12,29.95
+CA-1602,2023-04-01,2023-04-05,CG-8210,Home Office,South,Texas,Technology,Phones,1125.61,3,0.2,224.77
+CA-1603,2023-03-25,2023-03-28,CG-1229,Home Office,South,Texas,Office Supplies,Art,353.73,5,0.26,-6.51
+CA-1604,2023-07-08,2023-07-10,CG-6820,Corporate,West,California,Technology,Machines,1844.98,3,0.14,116.65
+CA-1605,2023-12-12,2023-12-18,CG-5958,Home Office,Central,Texas,Furniture,Tables,1033.71,1,0.0,143.0
+CA-1606,2023-01-13,2023-01-21,CG-3823,Home Office,South,Illinois,Office Supplies,Art,371.04,6,0.25,41.37
+CA-1607,2023-04-07,2023-04-12,CG-8225,Home Office,Central,Ohio,Furniture,Furnishings,1375.57,5,0.23,-155.96
+CA-1608,2023-10-29,2023-10-31,CG-9740,Consumer,West,Michigan,Furniture,Bookcases,1057.3,6,0.06,106.25
+CA-1609,2023-12-08,2023-12-15,CG-6192,Home Office,West,Michigan,Furniture,Furnishings,835.62,6,0.06,282.98
+CA-1610,2023-09-06,2023-09-14,CG-1282,Consumer,East,Illinois,Technology,Phones,1326.17,8,0.22,106.18
+CA-1611,2023-02-27,2023-03-01,CG-9828,Consumer,West,Illinois,Technology,Phones,339.34,4,0.1,32.43
+CA-1612,2023-11-10,2023-11-16,CG-2235,Consumer,East,Texas,Office Supplies,Art,418.88,6,0.22,54.87
+CA-1613,2023-03-06,2023-03-07,CG-6335,Consumer,South,California,Furniture,Furnishings,1435.51,9,0.05,378.57
+CA-1614,2023-10-28,2023-10-29,CG-2603,Home Office,East,New York,Technology,Phones,656.08,9,0.11,160.46
+CA-1615,2023-10-26,2023-10-31,CG-4787,Home Office,West,Texas,Technology,Machines,1971.08,9,0.11,321.31
+CA-1616,2023-01-07,2023-01-08,CG-9867,Corporate,West,Illinois,Technology,Machines,1832.57,7,0.07,360.6
+CA-1617,2023-10-15,2023-10-16,CG-5402,Home Office,Central,Ohio,Office Supplies,Supplies,80.5,9,0.15,8.01
+CA-1618,2023-01-22,2023-01-30,CG-2487,Home Office,West,Florida,Furniture,Chairs,862.98,4,0.28,59.82
+CA-1619,2023-06-18,2023-06-20,CG-5766,Corporate,East,Illinois,Technology,Accessories,678.98,6,0.05,120.61
+CA-1620,2023-08-31,2023-09-09,CG-3542,Home Office,East,California,Furniture,Tables,1068.49,1,0.3,11.03
+CA-1621,2023-01-02,2023-01-05,CG-9697,Consumer,South,New York,Furniture,Tables,635.97,7,0.07,36.99
+CA-1622,2023-04-16,2023-04-17,CG-8281,Consumer,West,Texas,Furniture,Chairs,453.97,4,0.26,-36.9
+CA-1623,2023-05-23,2023-05-29,CG-1074,Corporate,West,Georgia,Furniture,Furnishings,977.45,9,0.03,333.09
+CA-1624,2023-09-27,2023-09-30,CG-5207,Home Office,East,Ohio,Office Supplies,Supplies,32.64,2,0.27,-3.94
+CA-1625,2023-11-09,2023-11-15,CG-5652,Consumer,Central,Georgia,Office Supplies,Storage,483.07,5,0.03,147.73
+CA-1626,2023-05-17,2023-05-18,CG-5675,Corporate,South,Ohio,Office Supplies,Supplies,393.05,9,0.08,19.48
+CA-1627,2023-01-25,2023-01-28,CG-7719,Consumer,South,Florida,Technology,Accessories,297.83,2,0.02,28.58
+CA-1628,2023-01-31,2023-02-02,CG-2790,Corporate,West,Ohio,Furniture,Tables,188.46,8,0.05,29.43
+CA-1629,2023-02-24,2023-02-27,CG-3032,Consumer,South,Texas,Furniture,Tables,1302.51,6,0.24,51.72
+CA-1630,2023-01-11,2023-01-18,CG-1490,Corporate,East,Texas,Furniture,Furnishings,230.98,6,0.08,35.05
+CA-1631,2023-09-12,2023-09-20,CG-5423,Corporate,West,Georgia,Furniture,Bookcases,1292.21,9,0.2,4.8
+CA-1632,2023-07-30,2023-08-06,CG-5264,Home Office,Central,Michigan,Office Supplies,Labels,233.14,2,0.0,52.36
+CA-1633,2023-10-16,2023-10-19,CG-8856,Consumer,South,California,Technology,Copiers,1663.66,8,0.07,361.67
+CA-1634,2023-10-09,2023-10-14,CG-4215,Corporate,South,Illinois,Furniture,Bookcases,727.32,2,0.06,164.93
+CA-1635,2023-07-24,2023-07-31,CG-1105,Consumer,East,Michigan,Furniture,Chairs,892.19,1,0.26,98.72
+CA-1636,2023-08-04,2023-08-06,CG-2561,Home Office,West,Michigan,Office Supplies,Storage,237.33,6,0.25,-2.51
+CA-1637,2023-05-20,2023-05-23,CG-2524,Corporate,East,New York,Technology,Copiers,876.48,2,0.28,-36.26
+CA-1638,2023-07-02,2023-07-11,CG-8610,Home Office,Central,Texas,Furniture,Chairs,1407.01,2,0.04,249.11
+CA-1639,2023-11-22,2023-11-29,CG-1964,Consumer,South,New York,Office Supplies,Labels,160.16,5,0.29,-16.42
+CA-1640,2023-05-09,2023-05-11,CG-1028,Consumer,West,Texas,Furniture,Chairs,669.66,8,0.12,135.92
+CA-1641,2023-05-23,2023-06-01,CG-2906,Home Office,Central,Texas,Furniture,Furnishings,1083.37,3,0.1,0.62
+CA-1642,2023-08-20,2023-08-23,CG-8766,Corporate,East,Michigan,Furniture,Furnishings,162.8,3,0.19,29.27
+CA-1643,2023-05-29,2023-06-07,CG-3553,Consumer,West,New York,Office Supplies,Labels,209.17,4,0.02,58.04
+CA-1644,2023-09-01,2023-09-04,CG-9802,Home Office,Central,Texas,Office Supplies,Art,484.42,5,0.09,144.81
+CA-1645,2023-12-13,2023-12-14,CG-8690,Corporate,Central,Georgia,Furniture,Bookcases,1003.21,5,0.29,-34.03
+CA-1646,2023-12-09,2023-12-18,CG-1940,Corporate,Central,California,Technology,Accessories,289.12,5,0.25,-41.29
+CA-1647,2023-12-07,2023-12-11,CG-1818,Home Office,West,Ohio,Office Supplies,Storage,256.58,6,0.1,63.82
+CA-1648,2023-09-18,2023-09-21,CG-7830,Consumer,West,New York,Technology,Copiers,1572.56,2,0.19,-19.01
+CA-1649,2023-11-05,2023-11-09,CG-8027,Home Office,West,Michigan,Office Supplies,Storage,74.91,2,0.2,10.77
+CA-1650,2023-11-28,2023-12-05,CG-8135,Consumer,East,Michigan,Office Supplies,Supplies,48.75,9,0.03,3.62
+CA-1651,2023-01-15,2023-01-19,CG-4161,Consumer,South,Illinois,Office Supplies,Supplies,359.69,8,0.24,-9.04
+CA-1652,2023-03-01,2023-03-08,CG-3233,Home Office,Central,Texas,Office Supplies,Storage,381.85,1,0.02,51.1
+CA-1653,2023-04-03,2023-04-07,CG-6649,Corporate,South,Illinois,Technology,Copiers,1049.42,7,0.1,15.79
+CA-1654,2023-03-14,2023-03-15,CG-8875,Consumer,East,California,Technology,Accessories,1835.02,8,0.15,99.58
+CA-1655,2023-11-26,2023-12-04,CG-2447,Consumer,South,New York,Office Supplies,Storage,235.73,1,0.01,43.94
+CA-1656,2023-01-12,2023-01-15,CG-2672,Consumer,West,Texas,Technology,Copiers,700.6,9,0.15,23.49
+CA-1657,2023-04-02,2023-04-07,CG-9428,Consumer,East,New York,Office Supplies,Labels,175.98,1,0.28,16.11
+CA-1658,2023-01-26,2023-02-04,CG-4513,Corporate,East,Ohio,Technology,Machines,1677.65,8,0.06,214.48
+CA-1659,2023-01-24,2023-01-30,CG-6993,Home Office,West,New York,Office Supplies,Art,142.17,9,0.2,28.3
+CA-1660,2023-03-27,2023-03-30,CG-7546,Corporate,West,Florida,Technology,Accessories,1999.03,1,0.24,33.79
+CA-1661,2023-01-15,2023-01-20,CG-9405,Consumer,South,Illinois,Office Supplies,Labels,47.97,2,0.19,5.05
+CA-1662,2023-11-02,2023-11-08,CG-4345,Home Office,South,Texas,Technology,Accessories,1048.38,2,0.03,346.24
+CA-1663,2023-02-19,2023-02-25,CG-9266,Corporate,South,California,Technology,Accessories,1243.59,3,0.02,129.05
+CA-1664,2023-10-22,2023-10-31,CG-2174,Consumer,East,New York,Technology,Accessories,1398.17,5,0.05,201.22
+CA-1665,2023-05-21,2023-05-26,CG-9434,Corporate,Central,California,Furniture,Bookcases,893.13,5,0.04,65.37
+CA-1666,2023-08-29,2023-08-30,CG-2422,Home Office,South,Texas,Office Supplies,Art,14.91,4,0.17,0.42
+CA-1667,2023-12-03,2023-12-10,CG-9420,Corporate,Central,Ohio,Office Supplies,Storage,17.69,6,0.09,0.91
+CA-1668,2023-10-07,2023-10-13,CG-6432,Corporate,Central,Georgia,Technology,Accessories,1349.61,8,0.07,377.39
+CA-1669,2023-12-29,2024-01-06,CG-4793,Home Office,South,Illinois,Office Supplies,Labels,328.62,3,0.23,48.58
+CA-1670,2023-07-25,2023-07-27,CG-5381,Corporate,East,Illinois,Furniture,Furnishings,440.94,4,0.23,48.11
+CA-1671,2023-11-24,2023-12-01,CG-3523,Home Office,South,Texas,Furniture,Chairs,1217.83,8,0.06,186.21
+CA-1672,2023-02-22,2023-02-24,CG-7035,Corporate,Central,Texas,Office Supplies,Supplies,201.22,7,0.15,-9.42
+CA-1673,2023-03-24,2023-04-01,CG-1209,Home Office,South,Georgia,Technology,Phones,587.92,2,0.16,93.43
+CA-1674,2023-02-10,2023-02-19,CG-8314,Corporate,Central,California,Technology,Accessories,513.16,8,0.03,93.35
+CA-1675,2023-09-12,2023-09-17,CG-6578,Home Office,South,Ohio,Furniture,Furnishings,268.67,6,0.05,92.81
+CA-1676,2023-09-15,2023-09-21,CG-1737,Corporate,South,New York,Furniture,Bookcases,590.01,9,0.2,21.53
+CA-1677,2023-08-24,2023-08-31,CG-7400,Consumer,East,Florida,Furniture,Bookcases,1289.26,8,0.24,14.84
+CA-1678,2023-08-23,2023-08-27,CG-2777,Consumer,East,Michigan,Furniture,Chairs,704.96,9,0.03,116.56
+CA-1679,2023-07-18,2023-07-23,CG-6127,Corporate,Central,Texas,Furniture,Bookcases,590.26,7,0.21,0.51
+CA-1680,2023-10-22,2023-10-25,CG-2918,Consumer,East,Ohio,Office Supplies,Storage,194.33,8,0.11,33.32
+CA-1681,2023-09-30,2023-10-01,CG-1404,Home Office,East,Florida,Office Supplies,Supplies,165.06,1,0.28,6.11
+CA-1682,2023-07-05,2023-07-10,CG-1968,Consumer,East,Ohio,Technology,Phones,847.99,4,0.11,14.09
+CA-1683,2023-08-21,2023-08-24,CG-1823,Home Office,Central,Texas,Furniture,Chairs,152.59,6,0.08,22.32
+CA-1684,2023-12-26,2023-12-27,CG-4718,Corporate,Central,Illinois,Office Supplies,Supplies,131.26,4,0.2,19.96
+CA-1685,2023-01-22,2023-01-30,CG-9281,Consumer,East,Illinois,Technology,Accessories,1132.77,7,0.23,1.44
+CA-1686,2023-08-20,2023-08-29,CG-7284,Consumer,East,Illinois,Furniture,Bookcases,392.68,9,0.14,12.71
+CA-1687,2023-04-03,2023-04-05,CG-8002,Home Office,South,Georgia,Technology,Phones,1694.37,5,0.1,472.98
+CA-1688,2023-06-02,2023-06-09,CG-6976,Consumer,West,Georgia,Furniture,Furnishings,175.18,6,0.18,13.81
+CA-1689,2023-04-09,2023-04-16,CG-1391,Home Office,East,Michigan,Technology,Machines,1536.74,5,0.25,-33.69
+CA-1690,2023-02-21,2023-02-22,CG-5976,Corporate,West,Texas,Office Supplies,Art,426.03,8,0.13,95.82
+CA-1691,2023-03-05,2023-03-07,CG-4515,Consumer,Central,New York,Office Supplies,Art,260.92,9,0.22,-16.16
+CA-1692,2023-11-28,2023-12-05,CG-5613,Consumer,South,California,Technology,Machines,1794.66,9,0.22,212.89
+CA-1693,2023-05-02,2023-05-06,CG-3803,Home Office,East,Ohio,Office Supplies,Storage,86.88,2,0.12,19.04
+CA-1694,2023-03-27,2023-04-04,CG-1975,Consumer,Central,Illinois,Office Supplies,Labels,336.27,7,0.03,34.78
+CA-1695,2023-02-15,2023-02-21,CG-2963,Home Office,Central,New York,Office Supplies,Labels,80.56,2,0.29,-3.66
+CA-1696,2023-02-03,2023-02-05,CG-9101,Home Office,East,California,Office Supplies,Art,254.59,8,0.06,57.86
+CA-1697,2023-07-31,2023-08-02,CG-4179,Consumer,Central,Michigan,Office Supplies,Storage,474.62,3,0.24,-60.2
+CA-1698,2023-08-07,2023-08-08,CG-1356,Home Office,South,Michigan,Office Supplies,Labels,327.28,9,0.21,53.42
+CA-1699,2023-05-25,2023-06-02,CG-5879,Corporate,Central,Illinois,Technology,Accessories,1068.49,3,0.12,287.84
+CA-1700,2023-07-19,2023-07-21,CG-1292,Home Office,South,Michigan,Furniture,Chairs,945.31,7,0.12,39.76
+CA-1701,2023-04-26,2023-05-04,CG-7154,Home Office,West,Georgia,Technology,Machines,1604.85,7,0.02,350.37
+CA-1702,2023-11-25,2023-11-28,CG-6409,Home Office,Central,Florida,Furniture,Chairs,1296.32,5,0.02,413.73
+CA-1703,2023-11-27,2023-11-29,CG-7948,Home Office,South,California,Technology,Machines,606.2,2,0.29,9.04
+CA-1704,2023-03-22,2023-03-27,CG-1614,Home Office,South,Ohio,Furniture,Chairs,876.47,8,0.1,59.86
+CA-1705,2023-11-22,2023-11-29,CG-4808,Corporate,South,Florida,Office Supplies,Art,404.43,5,0.1,62.6
+CA-1706,2023-05-07,2023-05-08,CG-2075,Home Office,East,Texas,Office Supplies,Supplies,377.63,1,0.16,44.99
+CA-1707,2023-07-14,2023-07-16,CG-1597,Consumer,East,Georgia,Technology,Phones,295.28,4,0.29,-33.81
+CA-1708,2023-06-02,2023-06-04,CG-8846,Home Office,East,Illinois,Office Supplies,Supplies,67.18,6,0.12,7.4
+CA-1709,2023-06-10,2023-06-18,CG-8233,Consumer,West,Ohio,Office Supplies,Supplies,39.4,8,0.17,7.64
+CA-1710,2023-03-20,2023-03-26,CG-9002,Corporate,East,Ohio,Office Supplies,Storage,240.64,1,0.09,21.39
+CA-1711,2023-08-27,2023-08-30,CG-9022,Home Office,West,Ohio,Technology,Copiers,1836.31,1,0.13,241.11
+CA-1712,2023-12-06,2023-12-15,CG-1022,Consumer,East,Texas,Office Supplies,Labels,411.11,4,0.28,-36.37
+CA-1713,2023-06-04,2023-06-13,CG-8001,Consumer,West,Ohio,Furniture,Tables,842.59,9,0.06,127.64
+CA-1714,2023-02-20,2023-02-28,CG-4241,Corporate,West,Ohio,Office Supplies,Labels,275.01,4,0.09,9.78
+CA-1715,2023-02-08,2023-02-15,CG-6406,Home Office,Central,Florida,Technology,Phones,1873.63,9,0.19,17.96
+CA-1716,2023-11-07,2023-11-16,CG-9795,Corporate,Central,Texas,Office Supplies,Labels,399.13,6,0.27,-35.17
+CA-1717,2023-05-18,2023-05-24,CG-6991,Home Office,West,Texas,Office Supplies,Labels,107.02,2,0.1,6.13
+CA-1718,2023-03-25,2023-03-27,CG-4969,Home Office,East,Georgia,Office Supplies,Art,76.14,1,0.17,4.63
+CA-1719,2023-08-01,2023-08-05,CG-6389,Consumer,South,Illinois,Technology,Copiers,1540.0,2,0.24,-83.26
+CA-1720,2023-10-19,2023-10-24,CG-1421,Home Office,Central,Florida,Technology,Accessories,1745.74,8,0.16,358.57
+CA-1721,2023-08-26,2023-08-27,CG-2308,Consumer,South,New York,Technology,Accessories,1130.61,1,0.0,233.99
+CA-1722,2023-05-18,2023-05-21,CG-1109,Consumer,Central,Illinois,Office Supplies,Art,154.4,8,0.22,-1.53
+CA-1723,2023-02-18,2023-02-19,CG-1145,Consumer,Central,Illinois,Technology,Copiers,609.18,4,0.15,50.04
+CA-1724,2023-07-23,2023-07-30,CG-1486,Consumer,East,New York,Office Supplies,Labels,123.06,5,0.18,23.22
+CA-1725,2023-07-30,2023-08-05,CG-7843,Consumer,West,California,Office Supplies,Art,175.31,1,0.26,-2.65
+CA-1726,2023-03-23,2023-04-01,CG-4247,Corporate,Central,Michigan,Furniture,Furnishings,1092.32,2,0.27,-37.13
+CA-1727,2023-02-02,2023-02-05,CG-2646,Consumer,Central,New York,Furniture,Bookcases,767.95,1,0.26,-26.49
+CA-1728,2023-09-28,2023-10-01,CG-4034,Consumer,West,California,Office Supplies,Art,263.98,7,0.03,19.66
+CA-1729,2023-04-15,2023-04-21,CG-5264,Home Office,East,Georgia,Furniture,Furnishings,188.46,1,0.05,19.09
+CA-1730,2023-03-03,2023-03-07,CG-1818,Consumer,South,Michigan,Office Supplies,Supplies,65.29,4,0.19,-2.7
+CA-1731,2023-04-14,2023-04-20,CG-8232,Corporate,West,Illinois,Technology,Machines,1258.66,7,0.11,173.78
+CA-1732,2023-09-28,2023-10-02,CG-9974,Consumer,Central,Texas,Technology,Phones,1894.19,1,0.17,345.88
+CA-1733,2023-08-29,2023-09-05,CG-2616,Consumer,South,California,Furniture,Tables,179.94,3,0.16,31.65
+CA-1734,2023-01-10,2023-01-18,CG-8297,Consumer,West,New York,Office Supplies,Storage,58.88,1,0.2,8.38
+CA-1735,2023-10-20,2023-10-21,CG-9005,Corporate,East,California,Technology,Phones,1656.97,2,0.29,160.99
+CA-1736,2023-08-30,2023-09-01,CG-8694,Corporate,East,Michigan,Office Supplies,Supplies,341.29,5,0.09,91.77
+CA-1737,2023-02-22,2023-03-02,CG-5945,Corporate,East,Illinois,Office Supplies,Labels,189.65,5,0.09,35.85
+CA-1738,2023-11-09,2023-11-11,CG-7745,Corporate,East,Texas,Office Supplies,Storage,172.19,7,0.13,24.98
+CA-1739,2023-04-21,2023-04-28,CG-5663,Consumer,South,Illinois,Technology,Phones,393.04,9,0.27,6.8
+CA-1740,2023-10-05,2023-10-14,CG-9859,Home Office,South,Texas,Office Supplies,Storage,108.31,9,0.05,23.78
+CA-1741,2023-03-18,2023-03-21,CG-4167,Consumer,West,Georgia,Furniture,Furnishings,576.31,8,0.09,91.06
+CA-1742,2023-06-17,2023-06-22,CG-8842,Consumer,West,California,Office Supplies,Labels,272.47,6,0.03,87.39
+CA-1743,2023-11-27,2023-12-06,CG-9444,Home Office,West,Texas,Technology,Machines,1085.13,6,0.03,109.74
+CA-1744,2023-01-19,2023-01-27,CG-2885,Home Office,South,New York,Technology,Machines,615.76,1,0.24,-16.75
+CA-1745,2023-06-14,2023-06-18,CG-6166,Home Office,West,Georgia,Office Supplies,Labels,379.98,4,0.27,4.31
+CA-1746,2023-04-04,2023-04-09,CG-3873,Home Office,West,Illinois,Furniture,Furnishings,1008.82,6,0.2,57.76
+CA-1747,2023-10-02,2023-10-10,CG-8737,Home Office,West,Illinois,Furniture,Tables,897.07,2,0.15,39.14
+CA-1748,2023-07-20,2023-07-21,CG-4374,Corporate,West,Michigan,Technology,Copiers,722.66,8,0.04,92.25
+CA-1749,2023-04-22,2023-04-24,CG-1560,Consumer,Central,New York,Technology,Phones,1674.92,5,0.09,208.84
+CA-1750,2023-11-03,2023-11-09,CG-3877,Consumer,East,New York,Technology,Machines,736.67,7,0.25,-32.5
+CA-1751,2023-07-18,2023-07-22,CG-2725,Corporate,East,Michigan,Office Supplies,Art,212.54,6,0.09,13.28
+CA-1752,2023-02-21,2023-02-27,CG-4414,Consumer,South,Texas,Office Supplies,Supplies,363.35,9,0.25,37.16
+CA-1753,2023-05-13,2023-05-20,CG-9529,Consumer,West,Michigan,Office Supplies,Supplies,428.76,1,0.07,22.74
+CA-1754,2023-03-08,2023-03-09,CG-5366,Home Office,South,California,Technology,Phones,536.19,1,0.11,105.31
+CA-1755,2023-04-21,2023-04-26,CG-3810,Home Office,Central,Ohio,Furniture,Bookcases,121.7,9,0.08,8.95
+CA-1756,2023-01-09,2023-01-12,CG-4790,Consumer,East,Florida,Furniture,Tables,1443.43,9,0.21,15.02
+CA-1757,2023-10-27,2023-10-31,CG-7507,Consumer,Central,Florida,Technology,Copiers,1655.83,4,0.18,166.07
+CA-1758,2023-05-20,2023-05-22,CG-7449,Corporate,Central,Michigan,Furniture,Bookcases,1029.07,5,0.12,180.47
+CA-1759,2023-07-09,2023-07-18,CG-9808,Home Office,Central,Michigan,Furniture,Tables,387.26,9,0.13,83.09
+CA-1760,2023-05-27,2023-06-03,CG-5953,Consumer,East,Ohio,Office Supplies,Supplies,403.3,1,0.12,47.12
+CA-1761,2023-06-21,2023-06-29,CG-1909,Home Office,South,Georgia,Technology,Copiers,1095.62,3,0.16,-57.52
+CA-1762,2023-12-28,2023-12-29,CG-1780,Home Office,Central,California,Furniture,Tables,1133.61,7,0.08,164.04
+CA-1763,2023-07-13,2023-07-16,CG-8195,Consumer,Central,New York,Technology,Machines,757.72,9,0.3,-40.75
+CA-1764,2023-03-06,2023-03-07,CG-4653,Home Office,Central,Texas,Technology,Phones,1704.03,2,0.2,-23.24
+CA-1765,2023-04-14,2023-04-19,CG-4567,Corporate,Central,Georgia,Office Supplies,Art,138.22,7,0.01,22.8
+CA-1766,2023-09-10,2023-09-17,CG-2774,Corporate,West,Georgia,Technology,Machines,1439.12,5,0.16,312.71
+CA-1767,2023-08-19,2023-08-26,CG-8741,Home Office,West,Illinois,Office Supplies,Supplies,296.12,1,0.02,48.06
+CA-1768,2023-12-29,2023-12-31,CG-2800,Home Office,East,Texas,Office Supplies,Art,89.47,6,0.22,12.39
+CA-1769,2023-10-14,2023-10-21,CG-1773,Consumer,West,Texas,Technology,Accessories,438.63,4,0.01,119.86
+CA-1770,2023-12-31,2024-01-05,CG-7802,Consumer,Central,Florida,Technology,Phones,630.67,5,0.27,-54.21
+CA-1771,2023-04-17,2023-04-23,CG-4380,Consumer,West,Florida,Office Supplies,Art,211.36,7,0.13,32.07
+CA-1772,2023-07-03,2023-07-09,CG-8378,Corporate,Central,Texas,Furniture,Chairs,1244.99,3,0.11,263.21
+CA-1773,2023-10-07,2023-10-15,CG-4182,Corporate,Central,Florida,Office Supplies,Storage,124.48,4,0.07,38.37
+CA-1774,2023-09-15,2023-09-24,CG-8407,Consumer,West,Ohio,Office Supplies,Supplies,284.35,9,0.23,28.45
+CA-1775,2023-12-25,2023-12-28,CG-6769,Home Office,Central,California,Furniture,Bookcases,751.71,6,0.28,-55.24
+CA-1776,2023-04-12,2023-04-13,CG-8727,Consumer,South,Ohio,Furniture,Bookcases,714.06,3,0.11,159.56
+CA-1777,2023-04-19,2023-04-27,CG-1760,Corporate,East,California,Technology,Accessories,393.35,1,0.28,36.33
+CA-1778,2023-03-20,2023-03-26,CG-6448,Consumer,West,Texas,Furniture,Tables,580.44,1,0.13,-10.97
+CA-1779,2023-07-06,2023-07-15,CG-6830,Home Office,East,Georgia,Office Supplies,Art,379.3,2,0.25,47.73
+CA-1780,2023-12-22,2023-12-24,CG-5490,Home Office,West,Ohio,Office Supplies,Labels,245.25,1,0.24,27.54
+CA-1781,2023-03-15,2023-03-16,CG-9759,Home Office,East,Michigan,Furniture,Chairs,1199.94,6,0.25,-26.95
+CA-1782,2023-10-14,2023-10-20,CG-3985,Consumer,South,New York,Office Supplies,Supplies,247.58,5,0.04,24.54
+CA-1783,2023-02-17,2023-02-19,CG-2832,Consumer,East,Illinois,Furniture,Chairs,1489.64,1,0.17,-81.96
+CA-1784,2023-06-07,2023-06-16,CG-8616,Consumer,Central,Michigan,Furniture,Bookcases,876.76,5,0.29,-21.34
+CA-1785,2023-10-08,2023-10-09,CG-5515,Corporate,East,New York,Furniture,Bookcases,782.45,2,0.19,-41.55
+CA-1786,2023-03-02,2023-03-03,CG-1045,Consumer,Central,Florida,Office Supplies,Labels,359.81,2,0.24,-45.85
+CA-1787,2023-06-19,2023-06-20,CG-5183,Home Office,South,Florida,Office Supplies,Supplies,494.78,6,0.18,-22.8
+CA-1788,2023-03-29,2023-04-07,CG-4614,Corporate,Central,California,Office Supplies,Storage,207.31,3,0.06,22.02
+CA-1789,2023-08-07,2023-08-16,CG-5568,Home Office,West,New York,Furniture,Chairs,593.23,7,0.28,-70.05
+CA-1790,2023-06-08,2023-06-12,CG-2578,Corporate,East,Georgia,Technology,Phones,1122.64,3,0.14,117.6
+CA-1791,2023-04-25,2023-04-30,CG-3709,Corporate,West,New York,Furniture,Tables,206.39,3,0.3,18.21
+CA-1792,2023-02-27,2023-03-07,CG-7604,Consumer,Central,Florida,Technology,Phones,550.19,8,0.11,74.83
+CA-1793,2023-07-08,2023-07-10,CG-4741,Corporate,Central,Michigan,Technology,Machines,1287.51,9,0.08,90.35
+CA-1794,2023-05-21,2023-05-24,CG-3289,Home Office,West,New York,Furniture,Tables,344.7,2,0.25,7.42
+CA-1795,2023-07-22,2023-07-23,CG-8641,Corporate,Central,New York,Furniture,Tables,693.33,5,0.02,90.32
+CA-1796,2023-05-14,2023-05-15,CG-8226,Consumer,East,California,Technology,Copiers,1230.33,6,0.15,152.8
+CA-1797,2023-06-13,2023-06-16,CG-3580,Corporate,Central,Georgia,Furniture,Chairs,225.33,4,0.13,9.52
+CA-1798,2023-01-21,2023-01-25,CG-2074,Corporate,South,Florida,Technology,Phones,547.37,8,0.13,12.73
+CA-1799,2023-06-30,2023-07-04,CG-1500,Home Office,West,Florida,Technology,Machines,1394.72,8,0.21,-64.24
+CA-1800,2023-07-05,2023-07-06,CG-5483,Home Office,South,Illinois,Technology,Phones,209.8,4,0.04,53.2
+CA-1801,2023-08-29,2023-08-31,CG-6241,Home Office,West,Ohio,Technology,Accessories,1203.36,7,0.05,360.54
+CA-1802,2023-08-15,2023-08-21,CG-4757,Home Office,West,Illinois,Technology,Accessories,1293.97,1,0.29,-119.13
+CA-1803,2023-10-05,2023-10-06,CG-7468,Consumer,South,Ohio,Furniture,Chairs,1315.87,7,0.25,78.36
+CA-1804,2023-07-17,2023-07-26,CG-4483,Corporate,West,Illinois,Office Supplies,Supplies,16.26,3,0.03,1.43
+CA-1805,2023-03-28,2023-03-29,CG-7806,Corporate,West,Michigan,Furniture,Furnishings,938.99,7,0.03,175.01
+CA-1806,2023-10-13,2023-10-15,CG-4012,Consumer,South,California,Furniture,Chairs,397.99,8,0.12,51.92
+CA-1807,2023-05-01,2023-05-06,CG-7343,Corporate,East,Texas,Office Supplies,Storage,213.35,6,0.27,0.71
+CA-1808,2023-10-03,2023-10-08,CG-3888,Consumer,South,Michigan,Technology,Machines,1297.04,4,0.16,207.17
+CA-1809,2023-05-11,2023-05-14,CG-1897,Corporate,West,Texas,Technology,Copiers,1511.51,3,0.22,-52.61
+CA-1810,2023-07-18,2023-07-23,CG-6640,Home Office,West,Georgia,Office Supplies,Labels,233.52,5,0.24,-7.34
+CA-1811,2023-10-08,2023-10-17,CG-9899,Consumer,East,New York,Office Supplies,Supplies,494.72,6,0.14,16.74
+CA-1812,2023-12-16,2023-12-20,CG-1632,Home Office,South,New York,Office Supplies,Art,255.28,8,0.16,4.43
+CA-1813,2023-06-22,2023-06-26,CG-4082,Corporate,Central,Texas,Office Supplies,Labels,319.12,7,0.22,10.82
+CA-1814,2023-12-10,2023-12-18,CG-4663,Consumer,East,Florida,Office Supplies,Art,189.91,4,0.19,23.8
+CA-1815,2023-07-11,2023-07-15,CG-7152,Home Office,Central,Illinois,Technology,Copiers,1334.81,1,0.2,22.38
+CA-1816,2023-10-10,2023-10-11,CG-9634,Consumer,West,Michigan,Office Supplies,Storage,265.71,1,0.13,66.4
+CA-1817,2023-03-21,2023-03-23,CG-5775,Consumer,East,California,Technology,Machines,576.93,3,0.07,144.85
+CA-1818,2023-12-04,2023-12-06,CG-8205,Consumer,South,California,Technology,Machines,1713.14,7,0.06,395.85
+CA-1819,2023-05-15,2023-05-20,CG-8743,Home Office,Central,California,Office Supplies,Art,130.19,4,0.19,-9.94
+CA-1820,2023-12-13,2023-12-22,CG-6559,Consumer,Central,Michigan,Furniture,Furnishings,320.13,3,0.1,64.07
+CA-1821,2023-07-29,2023-07-31,CG-6873,Consumer,South,New York,Furniture,Chairs,838.25,3,0.25,95.12
+CA-1822,2023-08-25,2023-09-01,CG-4683,Home Office,East,Texas,Furniture,Chairs,565.77,2,0.11,32.33
+CA-1823,2023-02-18,2023-02-27,CG-7403,Corporate,Central,Michigan,Office Supplies,Storage,446.33,8,0.23,44.75
+CA-1824,2023-04-05,2023-04-14,CG-7034,Home Office,East,Georgia,Technology,Copiers,1715.29,5,0.15,98.02
+CA-1825,2023-07-27,2023-08-01,CG-1153,Corporate,East,Michigan,Furniture,Bookcases,1170.83,8,0.16,113.51
+CA-1826,2023-01-10,2023-01-11,CG-8399,Consumer,West,Illinois,Furniture,Bookcases,1401.31,3,0.16,175.88
+CA-1827,2023-07-14,2023-07-21,CG-6266,Corporate,South,New York,Furniture,Furnishings,528.73,1,0.17,79.65
+CA-1828,2023-09-16,2023-09-20,CG-9708,Home Office,South,California,Furniture,Bookcases,680.2,4,0.08,159.16
+CA-1829,2023-03-19,2023-03-26,CG-4080,Corporate,Central,Florida,Technology,Copiers,812.39,6,0.23,26.49
+CA-1830,2023-02-22,2023-03-01,CG-4916,Corporate,East,Texas,Technology,Phones,460.24,6,0.28,-22.52
+CA-1831,2023-11-02,2023-11-05,CG-3768,Consumer,Central,Michigan,Office Supplies,Supplies,452.49,8,0.02,95.04
+CA-1832,2023-07-02,2023-07-05,CG-6876,Home Office,Central,Michigan,Office Supplies,Supplies,480.2,9,0.24,-56.07
+CA-1833,2023-03-31,2023-04-03,CG-2473,Corporate,Central,Michigan,Furniture,Furnishings,1130.33,8,0.3,-94.61
+CA-1834,2023-10-08,2023-10-12,CG-2340,Consumer,East,Texas,Furniture,Furnishings,321.6,9,0.24,39.3
+CA-1835,2023-06-23,2023-06-29,CG-3758,Consumer,West,Texas,Office Supplies,Art,106.26,8,0.17,22.07
+CA-1836,2023-01-17,2023-01-19,CG-9751,Corporate,South,New York,Furniture,Chairs,1106.63,6,0.21,-41.99
+CA-1837,2023-01-05,2023-01-08,CG-3731,Home Office,East,New York,Furniture,Bookcases,1149.44,2,0.19,-3.74
+CA-1838,2023-11-12,2023-11-20,CG-9635,Home Office,East,Georgia,Technology,Machines,1863.59,5,0.17,168.19
+CA-1839,2023-02-02,2023-02-06,CG-1480,Corporate,South,New York,Furniture,Bookcases,305.65,6,0.05,36.9
+CA-1840,2023-05-24,2023-06-01,CG-9209,Consumer,West,Texas,Furniture,Bookcases,261.42,5,0.3,-32.14
+CA-1841,2023-02-13,2023-02-16,CG-4424,Corporate,West,Georgia,Furniture,Bookcases,244.75,1,0.14,17.35
+CA-1842,2023-08-23,2023-08-25,CG-5412,Consumer,East,Georgia,Technology,Machines,1202.12,3,0.26,151.72
+CA-1843,2023-10-27,2023-11-05,CG-7884,Consumer,Central,Michigan,Office Supplies,Labels,111.04,6,0.16,15.56
+CA-1844,2023-03-27,2023-03-28,CG-1716,Corporate,East,California,Office Supplies,Labels,225.36,3,0.04,59.62
+CA-1845,2023-09-13,2023-09-16,CG-8634,Corporate,Central,Texas,Technology,Phones,224.55,9,0.08,61.96
+CA-1846,2023-08-23,2023-08-28,CG-1427,Corporate,East,Michigan,Technology,Phones,1390.61,7,0.02,198.63
+CA-1847,2023-07-04,2023-07-10,CG-4367,Corporate,East,Texas,Technology,Phones,215.21,8,0.23,19.76
+CA-1848,2023-01-03,2023-01-04,CG-5261,Corporate,South,Ohio,Furniture,Tables,710.03,6,0.19,-57.32
+CA-1849,2023-01-26,2023-01-27,CG-9047,Home Office,South,Illinois,Office Supplies,Labels,112.92,2,0.09,14.12
+CA-1850,2023-08-29,2023-09-07,CG-7030,Home Office,South,New York,Furniture,Tables,776.22,7,0.21,27.42
+CA-1851,2023-01-21,2023-01-25,CG-7747,Home Office,East,California,Technology,Accessories,684.42,1,0.3,-108.5
+CA-1852,2023-10-30,2023-11-07,CG-7572,Corporate,South,New York,Technology,Phones,1423.51,1,0.07,328.45
+CA-1853,2023-08-23,2023-08-27,CG-2690,Corporate,West,Georgia,Technology,Copiers,267.59,7,0.28,-27.81
+CA-1854,2023-09-02,2023-09-10,CG-1444,Consumer,Central,Ohio,Furniture,Bookcases,935.41,8,0.01,207.97
+CA-1855,2023-07-26,2023-08-03,CG-5253,Home Office,Central,Texas,Office Supplies,Storage,112.67,1,0.11,3.14
+CA-1856,2023-06-21,2023-06-28,CG-1207,Home Office,West,Texas,Technology,Accessories,342.17,8,0.24,38.5
+CA-1857,2023-04-05,2023-04-12,CG-6724,Corporate,South,Texas,Office Supplies,Labels,297.37,8,0.04,60.02
+CA-1858,2023-10-27,2023-11-01,CG-6789,Home Office,West,Ohio,Office Supplies,Storage,215.96,5,0.29,-0.8
+CA-1859,2023-09-16,2023-09-23,CG-7554,Consumer,West,California,Furniture,Chairs,125.72,6,0.06,12.97
+CA-1860,2023-01-08,2023-01-12,CG-8637,Corporate,West,Georgia,Furniture,Bookcases,516.74,8,0.25,23.17
+CA-1861,2023-05-29,2023-05-31,CG-5760,Corporate,West,Texas,Office Supplies,Labels,112.66,4,0.09,25.22
+CA-1862,2023-06-07,2023-06-09,CG-8255,Corporate,South,Illinois,Furniture,Tables,242.73,7,0.11,52.88
+CA-1863,2023-10-14,2023-10-16,CG-7686,Consumer,East,Florida,Furniture,Chairs,658.35,6,0.12,45.88
+CA-1864,2023-05-18,2023-05-23,CG-9252,Corporate,East,Georgia,Technology,Copiers,1642.43,9,0.07,250.96
+CA-1865,2023-05-05,2023-05-13,CG-1081,Home Office,East,New York,Office Supplies,Labels,130.36,9,0.24,-14.16
+CA-1866,2023-12-10,2023-12-16,CG-6664,Corporate,South,Florida,Technology,Phones,1022.49,2,0.27,-138.73
+CA-1867,2023-03-03,2023-03-08,CG-2055,Home Office,South,New York,Furniture,Furnishings,1095.38,6,0.04,125.43
+CA-1868,2023-11-15,2023-11-16,CG-3810,Home Office,East,Michigan,Furniture,Chairs,558.88,7,0.19,-6.93
+CA-1869,2023-01-21,2023-01-26,CG-6024,Consumer,East,New York,Technology,Phones,1676.5,4,0.17,99.71
+CA-1870,2023-10-09,2023-10-11,CG-6745,Consumer,South,Georgia,Furniture,Tables,877.22,9,0.09,42.47
+CA-1871,2023-10-19,2023-10-28,CG-8933,Home Office,West,Georgia,Technology,Machines,293.68,4,0.07,41.08
+CA-1872,2023-08-09,2023-08-15,CG-1331,Corporate,South,Michigan,Furniture,Bookcases,216.25,1,0.07,57.94
+CA-1873,2023-12-11,2023-12-19,CG-3575,Home Office,Central,Florida,Technology,Machines,557.38,4,0.22,60.44
+CA-1874,2023-02-11,2023-02-12,CG-8441,Corporate,East,Florida,Technology,Machines,1515.99,3,0.05,314.47
+CA-1875,2023-03-26,2023-04-02,CG-9584,Consumer,Central,California,Technology,Copiers,394.14,9,0.26,-35.52
+CA-1876,2023-07-23,2023-07-25,CG-2434,Corporate,West,Ohio,Furniture,Furnishings,1054.04,5,0.09,201.9
+CA-1877,2023-05-18,2023-05-21,CG-7065,Corporate,East,Ohio,Furniture,Chairs,131.08,8,0.23,-3.22
+CA-1878,2023-05-12,2023-05-20,CG-5276,Home Office,Central,Michigan,Technology,Copiers,1099.19,2,0.12,115.64
+CA-1879,2023-01-19,2023-01-21,CG-1442,Consumer,South,California,Furniture,Chairs,626.84,7,0.01,210.53
+CA-1880,2023-11-17,2023-11-21,CG-1562,Corporate,East,Michigan,Technology,Accessories,1386.83,9,0.09,116.99
+CA-1881,2023-12-07,2023-12-15,CG-5727,Consumer,South,Georgia,Furniture,Bookcases,196.59,5,0.1,58.03
+CA-1882,2023-03-12,2023-03-13,CG-3800,Consumer,West,Texas,Office Supplies,Labels,437.96,1,0.21,-31.75
+CA-1883,2023-07-19,2023-07-27,CG-1740,Consumer,West,Michigan,Technology,Copiers,544.32,3,0.28,-79.47
+CA-1884,2023-12-12,2023-12-13,CG-9592,Consumer,South,California,Office Supplies,Labels,87.25,4,0.29,7.3
+CA-1885,2023-10-31,2023-11-04,CG-1270,Corporate,Central,New York,Office Supplies,Labels,154.6,6,0.05,19.45
+CA-1886,2023-08-15,2023-08-24,CG-1120,Corporate,South,New York,Technology,Machines,962.1,4,0.06,168.04
+CA-1887,2023-09-10,2023-09-15,CG-6911,Home Office,East,Illinois,Office Supplies,Supplies,34.08,3,0.21,3.07
+CA-1888,2023-11-18,2023-11-24,CG-8675,Home Office,West,New York,Furniture,Chairs,927.22,3,0.24,127.12
+CA-1889,2023-08-10,2023-08-12,CG-2151,Corporate,Central,Florida,Furniture,Furnishings,1303.8,8,0.05,110.57
+CA-1890,2023-02-25,2023-02-28,CG-5038,Home Office,East,Georgia,Furniture,Furnishings,1241.93,4,0.1,36.82
+CA-1891,2023-01-29,2023-02-07,CG-4718,Corporate,South,Michigan,Technology,Phones,916.56,1,0.05,104.43
+CA-1892,2023-05-24,2023-05-27,CG-5187,Home Office,East,Texas,Technology,Accessories,429.62,5,0.29,7.36
+CA-1893,2023-03-29,2023-04-03,CG-9328,Consumer,West,Florida,Office Supplies,Labels,478.51,6,0.01,162.72
+CA-1894,2023-07-09,2023-07-15,CG-7850,Home Office,West,Florida,Furniture,Furnishings,1169.96,3,0.1,145.32
+CA-1895,2023-12-09,2023-12-11,CG-2515,Corporate,West,Texas,Office Supplies,Labels,203.91,7,0.11,1.87
+CA-1896,2023-03-04,2023-03-08,CG-9084,Home Office,West,Ohio,Furniture,Tables,1096.35,5,0.25,-120.39
+CA-1897,2023-12-22,2023-12-30,CG-5606,Home Office,South,Ohio,Office Supplies,Art,220.05,5,0.13,45.37
+CA-1898,2023-09-17,2023-09-25,CG-7702,Home Office,West,Texas,Furniture,Chairs,906.1,7,0.0,326.39
+CA-1899,2023-05-14,2023-05-22,CG-3962,Home Office,East,Florida,Furniture,Tables,1447.22,4,0.26,12.72
+CA-1900,2023-08-23,2023-09-01,CG-7277,Consumer,West,Ohio,Technology,Phones,1999.47,8,0.04,260.41
+CA-1901,2023-08-01,2023-08-05,CG-4038,Corporate,Central,Ohio,Furniture,Furnishings,1308.16,7,0.03,147.78
+CA-1902,2023-10-13,2023-10-22,CG-3577,Home Office,East,New York,Office Supplies,Art,153.94,8,0.17,8.37
+CA-1903,2023-03-18,2023-03-26,CG-2387,Home Office,South,Florida,Furniture,Tables,887.33,6,0.29,-82.24
+CA-1904,2023-06-28,2023-07-05,CG-8063,Consumer,East,Michigan,Technology,Accessories,1488.19,9,0.02,377.91
+CA-1905,2023-10-31,2023-11-05,CG-7708,Consumer,East,Texas,Technology,Phones,1723.32,7,0.25,181.78
+CA-1906,2023-01-18,2023-01-25,CG-3815,Corporate,South,California,Technology,Copiers,830.49,7,0.23,131.38
+CA-1907,2023-12-29,2024-01-07,CG-2074,Home Office,Central,Illinois,Office Supplies,Supplies,121.75,6,0.04,18.71
+CA-1908,2023-01-05,2023-01-06,CG-7783,Consumer,South,Ohio,Technology,Phones,315.28,8,0.15,24.22
+CA-1909,2023-09-12,2023-09-16,CG-6037,Home Office,South,Ohio,Technology,Phones,295.48,9,0.08,58.59
+CA-1910,2023-05-22,2023-05-30,CG-2480,Corporate,West,Michigan,Office Supplies,Labels,449.27,1,0.21,10.79
+CA-1911,2023-02-25,2023-03-06,CG-6813,Corporate,South,Michigan,Furniture,Furnishings,561.96,7,0.21,68.55
+CA-1912,2023-09-27,2023-10-02,CG-2041,Corporate,West,Georgia,Technology,Accessories,1300.44,3,0.0,209.97
+CA-1913,2023-09-29,2023-10-03,CG-1540,Consumer,Central,Michigan,Technology,Phones,1418.79,6,0.2,143.4
+CA-1914,2023-10-28,2023-11-06,CG-4659,Home Office,Central,Illinois,Technology,Copiers,446.12,8,0.15,6.83
+CA-1915,2023-06-13,2023-06-17,CG-1258,Consumer,Central,California,Furniture,Chairs,1314.47,1,0.29,137.87
+CA-1916,2023-11-03,2023-11-09,CG-4196,Corporate,East,Illinois,Technology,Accessories,1616.54,1,0.18,316.73
+CA-1917,2023-12-03,2023-12-08,CG-4598,Home Office,East,New York,Technology,Machines,287.11,9,0.15,9.77
+CA-1918,2023-11-21,2023-11-24,CG-3196,Corporate,South,Illinois,Furniture,Tables,250.91,8,0.13,50.48
+CA-1919,2023-01-25,2023-02-01,CG-6443,Home Office,West,New York,Furniture,Bookcases,1202.29,9,0.05,129.05
+CA-1920,2023-02-22,2023-02-26,CG-8822,Corporate,Central,California,Furniture,Tables,1225.97,8,0.12,165.11
+CA-1921,2023-08-09,2023-08-10,CG-9500,Consumer,South,Ohio,Office Supplies,Supplies,285.88,4,0.23,33.41
+CA-1922,2023-02-21,2023-03-02,CG-7875,Consumer,West,Michigan,Technology,Accessories,1175.66,4,0.27,-41.76
+CA-1923,2023-12-02,2023-12-11,CG-3500,Corporate,East,Florida,Technology,Machines,705.28,2,0.02,199.12
+CA-1924,2023-07-31,2023-08-02,CG-2860,Home Office,South,California,Technology,Phones,1648.36,7,0.26,110.06
+CA-1925,2023-01-15,2023-01-18,CG-8232,Home Office,Central,New York,Office Supplies,Supplies,304.68,5,0.02,57.94
+CA-1926,2023-10-09,2023-10-14,CG-5200,Home Office,East,Georgia,Office Supplies,Art,440.9,9,0.12,81.05
+CA-1927,2023-07-03,2023-07-12,CG-6703,Corporate,Central,California,Technology,Accessories,1839.83,1,0.17,366.81
+CA-1928,2023-05-20,2023-05-25,CG-1095,Consumer,West,Florida,Technology,Copiers,1104.59,3,0.19,175.97
+CA-1929,2023-03-30,2023-04-06,CG-2417,Home Office,East,Georgia,Office Supplies,Art,448.35,6,0.12,28.69
+CA-1930,2023-05-23,2023-05-31,CG-6120,Consumer,Central,Illinois,Furniture,Chairs,850.67,2,0.09,243.6
+CA-1931,2023-03-01,2023-03-06,CG-6775,Home Office,Central,New York,Office Supplies,Supplies,254.78,2,0.11,31.4
+CA-1932,2023-09-23,2023-09-25,CG-6660,Home Office,South,Ohio,Technology,Accessories,1817.87,3,0.17,184.33
+CA-1933,2023-09-28,2023-10-05,CG-6604,Home Office,East,Ohio,Technology,Copiers,597.94,4,0.16,-31.99
+CA-1934,2023-03-28,2023-04-01,CG-8701,Consumer,West,New York,Technology,Copiers,1291.19,6,0.21,24.54
+CA-1935,2023-04-11,2023-04-18,CG-4536,Corporate,West,Florida,Office Supplies,Supplies,397.44,2,0.0,100.18
+CA-1936,2023-03-31,2023-04-03,CG-1107,Home Office,Central,Michigan,Technology,Phones,1870.22,6,0.1,138.93
+CA-1937,2023-06-14,2023-06-20,CG-5969,Corporate,South,Michigan,Furniture,Tables,808.52,2,0.2,23.24
+CA-1938,2023-02-02,2023-02-07,CG-1818,Consumer,Central,California,Furniture,Tables,408.09,1,0.28,27.29
+CA-1939,2023-05-01,2023-05-02,CG-8963,Corporate,Central,New York,Furniture,Bookcases,1140.67,8,0.14,90.69
+CA-1940,2023-05-10,2023-05-19,CG-9651,Home Office,Central,Illinois,Furniture,Bookcases,939.11,7,0.08,80.13
+CA-1941,2023-11-16,2023-11-25,CG-9823,Home Office,West,New York,Furniture,Bookcases,1091.03,5,0.06,299.06
+CA-1942,2023-07-10,2023-07-19,CG-1404,Corporate,Central,Georgia,Technology,Machines,1408.46,9,0.07,285.12
+CA-1943,2023-09-14,2023-09-19,CG-5799,Consumer,West,Ohio,Furniture,Chairs,1370.66,7,0.15,-49.37
+CA-1944,2023-01-06,2023-01-11,CG-1540,Corporate,West,California,Office Supplies,Supplies,388.08,4,0.1,20.65
+CA-1945,2023-01-19,2023-01-27,CG-1761,Home Office,West,Texas,Technology,Accessories,357.99,5,0.29,-13.11
+CA-1946,2023-08-12,2023-08-16,CG-5710,Corporate,Central,Georgia,Office Supplies,Storage,87.34,3,0.15,4.71
+CA-1947,2023-02-19,2023-02-25,CG-4270,Corporate,Central,Michigan,Office Supplies,Art,386.25,8,0.05,97.87
+CA-1948,2023-03-21,2023-03-28,CG-5335,Home Office,East,Ohio,Furniture,Chairs,1093.04,5,0.23,-36.74
+CA-1949,2023-01-24,2023-01-30,CG-5791,Corporate,Central,Michigan,Technology,Machines,446.1,6,0.25,10.01
+CA-1950,2023-01-27,2023-02-02,CG-8795,Corporate,East,Georgia,Furniture,Bookcases,532.3,5,0.24,50.84
+CA-1951,2023-05-21,2023-05-23,CG-5756,Corporate,West,California,Office Supplies,Supplies,71.82,5,0.28,1.24
+CA-1952,2023-09-23,2023-09-28,CG-5840,Consumer,East,Illinois,Technology,Phones,1441.68,8,0.06,79.39
+CA-1953,2023-04-04,2023-04-11,CG-9348,Home Office,East,Texas,Office Supplies,Art,413.85,5,0.13,59.7
+CA-1954,2023-12-09,2023-12-11,CG-3063,Home Office,South,Illinois,Technology,Machines,207.85,1,0.28,21.11
+CA-1955,2023-02-13,2023-02-21,CG-9759,Corporate,East,Florida,Furniture,Bookcases,659.06,4,0.12,22.24
+CA-1956,2023-02-01,2023-02-08,CG-2786,Consumer,South,California,Office Supplies,Storage,46.8,7,0.1,2.34
+CA-1957,2023-03-25,2023-03-27,CG-5861,Home Office,Central,New York,Office Supplies,Art,346.81,9,0.04,63.85
+CA-1958,2023-04-05,2023-04-06,CG-6624,Consumer,West,Michigan,Furniture,Chairs,899.19,9,0.01,245.57
+CA-1959,2023-06-15,2023-06-16,CG-7437,Corporate,South,Ohio,Office Supplies,Storage,70.5,4,0.22,-6.06
+CA-1960,2023-11-02,2023-11-06,CG-4093,Consumer,Central,Michigan,Furniture,Tables,1158.11,4,0.12,280.32
+CA-1961,2023-12-09,2023-12-17,CG-3913,Consumer,South,New York,Office Supplies,Storage,466.1,4,0.08,63.46
+CA-1962,2023-09-20,2023-09-26,CG-8694,Consumer,West,Florida,Office Supplies,Art,285.37,2,0.1,66.55
+CA-1963,2023-08-11,2023-08-20,CG-3922,Home Office,East,Illinois,Furniture,Chairs,1026.13,5,0.16,-3.54
+CA-1964,2023-12-09,2023-12-10,CG-7101,Consumer,South,California,Office Supplies,Art,140.0,1,0.17,4.53
+CA-1965,2023-03-18,2023-03-25,CG-8074,Consumer,South,California,Furniture,Furnishings,992.42,3,0.28,62.14
+CA-1966,2023-06-28,2023-07-02,CG-2614,Home Office,Central,Michigan,Technology,Copiers,1913.18,1,0.11,299.73
+CA-1967,2023-03-02,2023-03-03,CG-6733,Consumer,South,Texas,Office Supplies,Storage,270.75,9,0.17,20.57
+CA-1968,2023-07-25,2023-07-26,CG-9301,Consumer,South,California,Furniture,Chairs,226.16,6,0.03,70.73
+CA-1969,2023-05-18,2023-05-21,CG-8229,Home Office,South,Florida,Technology,Copiers,750.04,9,0.15,142.58
+CA-1970,2023-09-20,2023-09-27,CG-3293,Corporate,Central,Texas,Office Supplies,Art,284.57,4,0.16,17.46
+CA-1971,2023-03-22,2023-03-28,CG-1171,Consumer,Central,Texas,Furniture,Furnishings,293.57,5,0.29,-33.99
+CA-1972,2023-09-22,2023-09-25,CG-9945,Corporate,East,Illinois,Office Supplies,Supplies,477.03,2,0.28,-41.0
+CA-1973,2023-02-23,2023-03-03,CG-9998,Home Office,South,California,Furniture,Tables,1418.29,7,0.07,133.77
+CA-1974,2023-02-22,2023-03-02,CG-3460,Home Office,Central,Michigan,Technology,Machines,656.12,9,0.26,-50.8
+CA-1975,2023-06-14,2023-06-20,CG-3655,Home Office,Central,Michigan,Technology,Machines,1611.54,7,0.01,590.62
+CA-1976,2023-08-15,2023-08-16,CG-5735,Home Office,East,Illinois,Furniture,Chairs,658.66,5,0.24,-84.52
+CA-1977,2023-05-04,2023-05-06,CG-5215,Consumer,East,Texas,Technology,Phones,1769.79,9,0.03,628.44
+CA-1978,2023-03-11,2023-03-14,CG-2656,Home Office,East,Georgia,Office Supplies,Supplies,152.73,1,0.24,-1.54
+CA-1979,2023-04-19,2023-04-26,CG-5395,Corporate,West,Florida,Technology,Accessories,1029.86,1,0.19,84.02
+CA-1980,2023-05-16,2023-05-23,CG-6487,Home Office,East,Illinois,Office Supplies,Art,332.15,1,0.27,15.89
+CA-1981,2023-12-12,2023-12-20,CG-3459,Home Office,Central,California,Furniture,Furnishings,1144.58,7,0.2,-32.15
+CA-1982,2023-04-07,2023-04-14,CG-9167,Corporate,Central,Illinois,Technology,Machines,1889.77,5,0.01,267.73
+CA-1983,2023-04-05,2023-04-14,CG-8849,Consumer,West,Texas,Office Supplies,Labels,276.3,2,0.04,57.58
+CA-1984,2023-02-16,2023-02-21,CG-6819,Consumer,West,Florida,Furniture,Tables,1372.57,2,0.28,-109.72
+CA-1985,2023-12-21,2023-12-22,CG-6181,Home Office,South,Michigan,Furniture,Chairs,499.88,7,0.13,-11.22
+CA-1986,2023-09-30,2023-10-05,CG-2141,Home Office,West,Texas,Technology,Accessories,1882.37,3,0.13,176.13
+CA-1987,2023-06-03,2023-06-04,CG-5030,Corporate,West,Ohio,Technology,Phones,200.1,1,0.24,25.4
+CA-1988,2023-06-29,2023-07-08,CG-4469,Corporate,East,New York,Office Supplies,Supplies,84.99,1,0.12,20.32
+CA-1989,2023-04-22,2023-04-25,CG-1521,Consumer,West,Ohio,Office Supplies,Labels,346.61,3,0.11,20.75
+CA-1990,2023-12-21,2023-12-24,CG-7339,Home Office,Central,Ohio,Technology,Accessories,644.53,6,0.04,57.79
+CA-1991,2023-02-02,2023-02-10,CG-5179,Corporate,South,New York,Technology,Copiers,1137.49,9,0.04,106.31
+CA-1992,2023-06-05,2023-06-12,CG-3082,Home Office,East,Michigan,Technology,Copiers,233.99,5,0.12,-4.66
+CA-1993,2023-02-16,2023-02-22,CG-8803,Consumer,East,Texas,Technology,Copiers,539.96,5,0.06,71.54
+CA-1994,2023-10-06,2023-10-09,CG-3306,Corporate,Central,Ohio,Technology,Accessories,1594.75,6,0.08,407.04
+CA-1995,2023-09-23,2023-10-01,CG-3430,Consumer,Central,New York,Technology,Copiers,704.24,2,0.09,115.24
+CA-1996,2023-01-16,2023-01-23,CG-9015,Corporate,West,Michigan,Furniture,Furnishings,506.4,8,0.08,159.84
+CA-1997,2023-12-15,2023-12-19,CG-8422,Corporate,West,Michigan,Office Supplies,Storage,468.05,9,0.22,29.77
+CA-1998,2023-08-16,2023-08-18,CG-5162,Consumer,West,Ohio,Technology,Machines,1232.58,6,0.27,113.45
+CA-1999,2023-10-31,2023-11-04,CG-3369,Consumer,Central,California,Technology,Phones,1723.76,8,0.02,232.06
