@@ -31,10 +31,10 @@ A professional web-based business intelligence platform built with Streamlit tha
 
 ## 👨‍💻 Developer
 **RISHIKA-T22**  
-Data Analytics Intern - Kaashiv Infotech
+
 
 ---
-*Built as part of Data Analytics Internship Project*
+
 
 ```markdown
 ## 📁 Project Structure
